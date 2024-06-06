@@ -6,7 +6,7 @@ Materials are stored in this GitHub repo:
 [https://github.com/HuangShiLab/microbiome_innovation_theme_meeting](https://github.com/HuangShiLab/microbiome_innovation_theme_meeting)
 
 ## The Latest Seminar News
-<iframe width="800" height="400" src="https://docs.google.com/document/d/e/2PACX-1vTIxpr1rKTeEe5syBlAuCxZYCRNObDUZhF2tuvzVRbTEjyF4-cqtGDxPyvr7rKe-rdhIPKoMrSr2Cdp/pub?widget=true&headers=false"></iframe>
+<iframe width="800" height="400" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQVgCxoc7b9FJgX-6Oi_vTR-p5TfPMulDIfacSStWCoAcIXFsrTzT_zjoyu4JMyDvCTGO8eb4XlljQN/pubhtml"></iframe>
 
 ## Schedule
 
