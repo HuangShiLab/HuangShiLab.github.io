@@ -15,7 +15,7 @@ Materials are stored in this GitHub repo:
 
 ### Schedule
 
-<iframe width="650" height="400" src="https://docs.google.com/spreadsheets/d/1De7n_jrXhOOVZITy9TrhSxOud5mA6H8y/edit#gid=21459879">
+<iframe width="650" height="400" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8MsXuSOa5JFinyCMMbdZsHNDlE-HmQtHZtgj97iKw4lJ5pzEvPIuNVK4u70R2JQ/pubhtml?gid=21459879&single=true">
 </iframe>
 
 <br/>
