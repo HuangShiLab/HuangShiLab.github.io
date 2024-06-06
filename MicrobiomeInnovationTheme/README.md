@@ -6,11 +6,11 @@ Materials are stored in this GitHub repo:
 [https://github.com/HuangShiLab/MicrobiomeInnovationTheme](https://github.com/HuangShiLab/MicrobiomeInnovationTheme)
 
 ## The Latest Seminar News
-<iframe width="1000" height="500" src="https://docs.google.com/document/d/e/2PACX-1vTIxpr1rKTeEe5syBlAuCxZYCRNObDUZhF2tuvzVRbTEjyF4-cqtGDxPyvr7rKe-rdhIPKoMrSr2Cdp/pub"></iframe>
+<iframe width="800" height="400" src="https://docs.google.com/document/d/e/2PACX-1vTIxpr1rKTeEe5syBlAuCxZYCRNObDUZhF2tuvzVRbTEjyF4-cqtGDxPyvr7rKe-rdhIPKoMrSr2Cdp/pub?widget=true&headers=false"></iframe>
 
 ## Schedule
 
-<iframe width="1000" height="500" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQOLaKfAdq6oM7_THqiMHUteM0-GVmcefKsQgfTZtlPlWV6lp710i3UAtgfKgW458Vk6VvbCJZwnh8z/pubhtml"></iframe>
+<iframe width="800" height="400" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQOLaKfAdq6oM7_THqiMHUteM0-GVmcefKsQgfTZtlPlWV6lp710i3UAtgfKgW458Vk6VvbCJZwnh8z/pubhtml"></iframe>
 
 <br/>
 
