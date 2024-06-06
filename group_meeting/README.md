@@ -7,6 +7,6 @@ Materials are stored in this GitHub repo:
 
 ### Schedule
 
-<iframe width="1000" height="500" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8MsXuSOa5JFinyCMMbdZsHNDlE-HmQtHZtgj97iKw4lJ5pzEvPIuNVK4u70R2JQ/pubhtml"></iframe>
+<iframe width="1000" height="500" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8MsXuSOa5JFinyCMMbdZsHNDlE-HmQtHZtgj97iKw4lJ5pzEvPIuNVK4u70R2JQ/pubhtml?widget=true&amp;headers=false"></iframe>
 
 <br/>
