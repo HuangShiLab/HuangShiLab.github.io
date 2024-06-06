@@ -15,10 +15,11 @@ Materials are stored in this GitHub repo:
 [https://github.com/HuangShiLab/microbiome_innovation_theme_seminar](https://github.com/HuangShiLab/microbiome_innovation_theme_seminar)
 
 ### The Latest Seminar News
-<iframe width=800 height=600 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQVgCxoc7b9FJgX-6Oi_vTR-p5TfPMulDIfacSStWCoAcIXFsrTzT_zjoyu4JMyDvCTGO8eb4XlljQN/pubhtml?widget=false&amp;headers=false"></iframe>
+<iframe width=800 height=500 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQVgCxoc7b9FJgX-6Oi_vTR-p5TfPMulDIfacSStWCoAcIXFsrTzT_zjoyu4JMyDvCTGO8eb4XlljQN/pubhtml?widget=false&amp;headers=false"></iframe>
 
 ### Schedule
-<iframe width=800 height=200 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQOLaKfAdq6oM7_THqiMHUteM0-GVmcefKsQgfTZtlPlWV6lp710i3UAtgfKgW458Vk6VvbCJZwnh8z/pubhtml?widget=false&amp;headers=false"></iframe>
+<iframe width=800 height=400 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQOLaKfAdq6oM7_THqiMHUteM0-GVmcefKsQgfTZtlPlWV6lp710i3UAtgfKgW458Vk6VvbCJZwnh8z/pubhtml?widget=false&amp;headers=false"></iframe>
 
-<br/>
+### Available time for the seminar
+We are open to scheduling the meeting for the whole day in this month. Given our seminar will only happen at noon or 5:30 PM. You may just mark noon/5:30 PM in the Google sheet ([https://docs.google.com/spreadsheets/d/1snA9Upx4TCWSrUVqU8UqN8kKcZlo9AI3sbsXTFgGdxU/edit#gid=186001220](https://docs.google.com/spreadsheets/d/1snA9Upx4TCWSrUVqU8UqN8kKcZlo9AI3sbsXTFgGdxU/edit#gid=186001220)). If you have no access for this file, please feel free to click the "Request Access" button or email to our [manager](Huanglab07@gmail.com).
 
