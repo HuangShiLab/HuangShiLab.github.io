@@ -3,8 +3,8 @@ markdown: kramdown
 theme: minima
 # remote_theme: mmistakes/minimal-mistakes
 
-title: Group Meeting
-author: Huang Shi's Lab
+title: 
+author: 
 
 # Minima: show excerpts in the frontpage
 show_excerpts: true
