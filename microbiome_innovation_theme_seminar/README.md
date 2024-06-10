@@ -1,12 +1,3 @@
-# Microbiome Innovation Theme Seminar
-
-## [Microbiome Innovation](https://facdent.hku.hk/research/microbiome-innovation.html)
-### RESEARCH THEME
-**Overview of Group Research Activities**
-A well-balanced oral microbiome underpins good oral health and well-being. However, the biological activities of a disturbed or ‘imbalanced’ oral microbiome can promote oral and systemic disease and disorder. The aim of the Microbiome Innovation (MI) Research Group is to identify the fundamental mechanisms by which the oral microbiome promotes good oral health, and is resilient towards disease-related processes. Our goal is to improve oral health and well-being by developing innovative, personalized strategies targeting the oral microbiome.
-
-Theme leader: Dr. Huang Shi ([https://facdent.hku.hk/about/staff-profile.php?shortname=shihuang](https://facdent.hku.hk/about/staff-profile.php?shortname=shihuang))
-
 ## [Microbiome Innovation Theme Seminar](https://huangshilab.github.io/microbiome_innovation_theme_seminar)
 
 Welcome to the [Microbiome Innovation Theme Seminar](https://huangshilab.github.io/microbiome_innovation_theme_seminar/) of at the Faculty of Dentistry, the University of Hong Kong.
