@@ -1,4 +1,4 @@
-Welcome to the [Microbiome Innovation Theme Seminar](https://huangshilab.github.io/microbiome_innovation_theme_seminar/) of at the Faculty of Dentistry, the University of Hong Kong.
+Welcome to the [Microbiome Innovation Theme Seminar](https://huangshilab.github.io/microbiome_innovation_theme_seminar/) at the Faculty of Dentistry, the University of Hong Kong.
 
 Materials are stored in this GitHub repo: 
 [https://github.com/HuangShiLab/microbiome_innovation_theme_seminar](https://github.com/HuangShiLab/microbiome_innovation_theme_seminar)
