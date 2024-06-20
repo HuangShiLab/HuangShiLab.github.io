@@ -30,7 +30,8 @@ Prof. Shi Huang [https://facdent.hku.hk/about/staff-profile.php?shortname=shihua
 * Huang S, He T, Yue F, Xu X, Wang L, Zhu P, Teng F, Sun Z, Liu X, Jing G, Su X, Jin L, Liu J, Xu J*. Longitudinal Multi-omics and Microbiome Meta-analysis Identify an Asymptomatic Gingival State That Links Gingivitis, Periodontitis, and Aging, _mBio_ 2021; 12(2): article no. e03281-20-article no. e03281-20 doi:10.1128/mBio.03281-20
 
 * Huang Shi, Haiminen Niina, Carrieri Anna Paola, Hu Rebecca, Jiang Lingjing, Parida Laxmi, Russell Baylee, Allaband Celeste, Zarrinpar Amir, Vázquez-Baeza Yoshiki, Belda-Ferre Pedro, Zhou Hongwei, Kim Ho Cheol, Swafford Austin D., Knight Rob, Xu Zhenjiang Zech#. Human skin, oral, and gut microbiomes predict chronological age, mSystems 2020; 5(1): article no. e00630-19-article no. e00630-19 doi:10.1128/mSystems.00630-19
-Huang Shi, Li Rui, Zeng Xiaowei, He Tao, Zhao Helen, Chang Alice, Bo Cunpei, Chen Jie, Yang Fang, Knight Rob, Liu Jiquan, Davis Catherine, Xu Jian*. Predictive modeling of gingivitis severity and susceptibility via oral microbiota, ISME Journal 2014; 8(9): 1768-1780 doi:10.1038/ismej.2014.32
+
+* Huang Shi, Li Rui, Zeng Xiaowei, He Tao, Zhao Helen, Chang Alice, Bo Cunpei, Chen Jie, Yang Fang, Knight Rob, Liu Jiquan, Davis Catherine, Xu Jian*. Predictive modeling of gingivitis severity and susceptibility via oral microbiota, ISME Journal 2014; 8(9): 1768-1780 doi:10.1038/ismej.2014.32
 
 * Huang Shi, Yang Fang, Zeng Xiaowei, Chen Jie, Li Rui, Wen Ting, Li Chun, Wei Wei, Liu Jiquan, Chen Lan, Davis Catherine, Xu Jian. Preliminary characterization of the oral microbiota of Chinese adults with and without gingivitis, BMC Oral Health 2011; 11(1): article no. 33-article no. 33 doi:10.1186/1472-6831-11-33
 
