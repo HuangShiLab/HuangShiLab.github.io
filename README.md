@@ -19,7 +19,7 @@ Prof. Shi Huang [https://facdent.hku.hk/about/staff-profile.php?shortname=shihua
 
 ## Selective publications
 ### Metagenomics method development
-* Sun Z#, Huang S(#,*), Zhu P, Lam T, Zhao H, Lv J, Zhang R, Zhou L, Niu Q, Wang X, Zhang M, Jing G, Bao Z, Liu J, Wang S*, Xu J*. Species-resolved sequencing of low-biomass or degraded microbiomes using 2bRAD-M, _Genome Biology_ 2022; 23: article no. 36-article no. 36 doi:10.1186/s13059-021-02576-9
+* Sun Z#, Huang S#,**, Zhu P, Lam T, Zhao H, Lv J, Zhang R, Zhou L, Niu Q, Wang X, Zhang M, Jing G, Bao Z, Liu J, Wang S*, Xu J*. Species-resolved sequencing of low-biomass or degraded microbiomes using 2bRAD-M, _Genome Biology_ 2022; 23: article no. 36-article no. 36 doi:10.1186/s13059-021-02576-9
 * Zhu Q#, Huang S#, Gonzalez A, McGrath I, McDonald D, Haiminen N, Armstrong G, Vazquez-Baeza Y, Yu J, Kuczynski J, Sepich-Poore GD, Swafford AD, Das P, Shaffer JP, Lejzerowicz F, Belda-Ferre P, Havulinna AS, Meric G, Niiranen T, Lahti L, Salomaa V, Kim HC, Jain M, Inouye M, Gilbert JA, Knight R. Phylogeny-Aware Analysis of Metagenome Community Ecology Based on Matched Reference Genomes while Bypassing Taxonomy, _mSystems_ 2022; e0016722-e0016722 doi:10.1128/msystems.00167-22
 * Sun Zheng#, Huang Shi#, Zhang Meng, Zhu Qiyun, Haiminen Niina, Carrieri Anna Paola, Vázquez-Baeza Yoshiki, Parida Laxmi, Kim Ho Cheol, Knight Rob, Liu Yang Yu. Challenges in benchmarking metagenomic profilers, _Nature Methods_ 2021; 18(6): 618-626 doi:10.1038/s41592-021-01141-3
 
