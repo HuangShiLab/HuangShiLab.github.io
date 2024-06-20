@@ -6,6 +6,10 @@ Prof. Shi Huang [https://facdent.hku.hk/about/staff-profile.php?shortname=shihua
 * Yuesong Jiang
 * Shuwen Hou
 * Enoch Kao
+* Gang Wang
+
+# Past members
+* Shuaiming Jiang
 
 ## Selective publications
 * Zhang Josie Shizhen, Huang Shi, Chen Zigui, Chu Chun-Hung, Takahashi Nobuhiro, Yu Ollie Yiru. Application of omics technologies in cariology research: A critical review with bibliometric analysis, Journal of Dentistry 2023; 141 doi:10.1016/j.jdent.2023.104801
