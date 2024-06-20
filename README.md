@@ -1,5 +1,3 @@
-# Huang Shi's Lab
-
 # Principle Investigator
 Prof. Shi Huang [https://facdent.hku.hk/about/staff-profile.php?shortname=shihuang](https://facdent.hku.hk/about/staff-profile.php?shortname=shihuang)
 
