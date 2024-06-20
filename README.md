@@ -2,7 +2,13 @@
 
 Prof. Shi Huang [https://facdent.hku.hk/about/staff-profile.php?shortname=shihuang](https://facdent.hku.hk/about/staff-profile.php?shortname=shihuang)
 
-## Article
+# Current members
+* Yufeng Zhang
+* Yuesong Jiang
+* Shuwen Hou
+* Enoch Kao
+
+## Selective publications
 * Zhang Josie Shizhen, Huang Shi, Chen Zigui, Chu Chun-Hung, Takahashi Nobuhiro, Yu Ollie Yiru. Application of omics technologies in cariology research: A critical review with bibliometric analysis, Journal of Dentistry 2023; 141 doi:10.1016/j.jdent.2023.104801
 * Ma Chenchen, Zhang Yufeng, Jiang Shuaiming, Teng Fei, Huang Shi, Zhang Jiachao. Cross-cohort single-nucleotide-variant profiling of gut microbiota suggests a novel gut-health assessment approach, mSystems 2023; 8(6) doi:10.1128/msystems.00828-23
 * Zhang CC, Yu LL, Ma CC, Jiang SM, Zhang YF, Wang SH, Tian FW, Xue YZ, Zhao JX, Zhang H, Liu LM, Chen W, Huang S, Zhang JC, Zhai QX. A key genetic factor governing arabinan utilization in the gut microbiome alleviates constipation, Cell Host & Microbe 2023; 31(12): 1989-2006 doi:10.1016/j.chom.2023.10.011
