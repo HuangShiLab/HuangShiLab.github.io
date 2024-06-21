@@ -31,6 +31,14 @@ You can find more details here [https://facdent.hku.hk/about/staff-profile.php?s
 * **Best Poster Award**, 2nd Frontiers Forum on Next-Generation Biomaterials in Dental Medicine, 2 June 2024, Hong Kong, China. Title: Strain-resolved taxonomic profiling and functional prediction of human microbiota using Strain2bFunc.
 * **HKU TEC MedTech Hackathon 2024 Finalist Award**, HKU TEC MedTech Hackathon 2024, Hong Kong, China, Project title: Effective mining of Autologous Probiotics (ProbioMine Biotech.). 
 
+* Qingdao Science and Technology Progress Second-class Award, 2021, “Mechanistic understanding of oral-microbiome-based diagnosis and prediction of diseases and its applications” 
+(Co-I)
+* Shandong Science and Technology Progress Third-class Award, 2022, “In-depth oral microbiome analysis based on next-generation sequencing technology for construction and application of the caries risk assessment model” (Co-I)
+* International Postdoctoral Exchange Fellowship Program (China Postdoctoral Science Foundation), 2017-2018
+* China Postdoctoral Science Foundation-CAS Joint Fellowship for Excellent Postdoctoral Fellows (2016LH00036) 2016-2018 
+
+
+
 ## Selective publications
 
 ### Metagenomics method development
