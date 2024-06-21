@@ -76,7 +76,7 @@ You can find more details here [https://facdent.hku.hk/about/staff-profile.php?s
 
 * Li Shanshan#, **Huang Shi#**, Guo Yi, Zhang Ying, Zhang Lijuan, Li Fan, Tan Kaixuan, Lu Jie, Chen Zhenggang, Guo Qingyuan, Tang Yongping, Teng Fei*, Yang Fang*. Geographic Variation Did Not Affect the Predictive Power of Salivary Microbiota for Caries in Children With Mixed Dentition, _Frontiers in Cellular and Infection Microbiology_ 2021; 11: article no. 680288-article no. 680288 doi:10.3389/fcimb.2021.680288
 
-* Zhang Ying#, Huang Shi#, Jia Songbo, Sun Zheng, Li Shanshan, Li Fan, Zhang Lijuan, Lu Jie, Tan Kaixuan, Teng Fei*, Yang Fang*. The predictive power of saliva electrolytes exceeds that of saliva microbiomes in diagnosing early childhood caries, _Journal of Oral Microbiology_ 2021; 13(1): article no. 1921486-article no. 1921486 doi:10.1080/20002297.2021.1921486
+* Zhang Ying#, **Huang Shi#**, Jia Songbo, Sun Zheng, Li Shanshan, Li Fan, Zhang Lijuan, Lu Jie, Tan Kaixuan, Teng Fei*, Yang Fang*. The predictive power of saliva electrolytes exceeds that of saliva microbiomes in diagnosing early childhood caries, _Journal of Oral Microbiology_ 2021; 13(1): article no. 1921486-article no. 1921486 doi:10.1080/20002297.2021.1921486
 
 ### Probiotics and human microbiome
 * **Huang Shi**, Jiang Shuaiming, Huo Dongxue, Allaband Celeste, Estaki Mehrbod, Cantu Victor, Belda-Ferre Pedro, Vázquez-Baeza Yoshiki, Zhu Qiyun, Ma Chenchen, Li Congfa, Zarrinpar Amir, Liu Yang Yu, Knight Rob, Zhang Jiachao. Candidate probiotic Lactiplantibacillus plantarum HNU082 rapidly and convergently evolves within human, mice, and zebrafish gut but differentially influences the resident microbiome, _Microbiome_ 2021; 9(1): article no. 151-article no. 151 doi:10.1186/s40168-021-01102-0
