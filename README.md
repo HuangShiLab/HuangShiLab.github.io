@@ -25,11 +25,11 @@ You can find more details here [https://facdent.hku.hk/about/staff-profile.php?s
 
 # Awards 
 
-* **Poster of Distinction Award**, International Digestive Disease Forum (IDDF), 10/06/2023-11/06/2023, Hong Kong, China. Title: Strain-resolved taxonomic profiling and functional prediction of human microbiota using Strain2bFunc; A120-A123 doi:10.1136/gutjnl-2023-IDDF.106
-* **Best Poster Award**, SMART Symposium: Microbiota in Health and Disease, Shenzhen, China (13-14 Jan 2024). Title: A key genetic factor governing arabinan utilization in the gut microbiome alleviates constipation. 
-* **Best Poster Award**, TU-HKU-FJMU International Symposium, 17 November 2022, Hong Kong, China. Title: Strain-resolved taxonomic profiling and functional prediction of human microbiota using Strain2bFunc.
 * **Best Poster Award**, 2nd Frontiers Forum on Next-Generation Biomaterials in Dental Medicine, 2 June 2024, Hong Kong, China. Title: Strain-resolved taxonomic profiling and functional prediction of human microbiota using Strain2bFunc.
-* **HKU TEC MedTech Hackathon 2024 Finalist Award**, HKU TEC MedTech Hackathon 2024, Hong Kong, China, Project title: Effective mining of Autologous Probiotics (ProbioMine Biotech.). 
+*  **HKU TEC MedTech Hackathon 2024 Finalist Award**, HKU TEC MedTech Hackathon 2024, Hong Kong, China, Project title: Effective mining of Autologous Probiotics (ProbioMine Biotech.). 
+* **Best Poster Award**, SMART Symposium: Microbiota in Health and Disease, Shenzhen, China (13-14 Jan 2024). Title: A key genetic factor governing arabinan utilization in the gut microbiome alleviates constipation.
+* **Poster of Distinction Award**, International Digestive Disease Forum (IDDF), 10/06/2023-11/06/2023, Hong Kong, China. Title: Strain-resolved taxonomic profiling and functional prediction of human microbiota using Strain2bFunc; A120-A123 doi:10.1136/gutjnl-2023-IDDF.106 
+* **Best Poster Award**, TU-HKU-FJMU International Symposium, 17 November 2022, Hong Kong, China. Title: Strain-resolved taxonomic profiling and functional prediction of human microbiota using Strain2bFunc.
 
 * **Qingdao Science and Technology Progress Second-class Award**, 2021, “Mechanistic understanding of oral-microbiome-based diagnosis and prediction of diseases and its applications” 
 (Co-I)
