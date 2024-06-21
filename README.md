@@ -16,7 +16,8 @@ You can find more details here [https://facdent.hku.hk/about/staff-profile.php?s
 # Current members
 * Yufeng Zhang 
 * Yuesong Jiang
-* Shuwen Hou
+* Shuwen Hou, PhD student<br/>
+Shuwen obtained her BSc in biochemistry at HKU in 2023. Her current projects focus on low-biomass human microbiome analysis. In her free time, Shuwen enjoys hiking and watching TV series.
 * Enoch Kao
 * Gang Wang
 
