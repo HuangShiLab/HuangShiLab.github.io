@@ -70,7 +70,13 @@ You can find more details here [https://facdent.hku.hk/about/staff-profile.php?s
 
 * Sun Zheng#, **Huang Shi#**, Zhu Pengfei, Yue Feng, Zhao Helen, Yang Ming, Niu Yueqing, Jing Gongchao, Su Xiaoquan, Li Huiying, Callewaert Chris, Knight Rob, Liu Jiquan, Smith Ed, Wei Karl, Xu Jian. A microbiome-based index for assessing skin health and treatment effects for atopic dermatitis in children, _mSystems_ 2019; 4(4): article no. e00293-19-article no. e00293-19 doi:10.1128/mSystems.00293-19
   
-* de la Cuesta-Zuluaga Jacobo, Kelley Scott T., Chen Yingfeng, Escobar Juan S., Mueller Noel T., Ley Ruth E., McDonald Daniel, **Huang Shi**, Swafford Austin D., Knight Rob, Thackray Varykina G.. Age- And sex-dependent patterns of gut microbial diversity in human adults, _mSystems_ 2019; 4(4): article no. e00261-19-article no. e00261-19 doi:10.1128/mSystems.00261-19
+* de la Cuesta-Zuluaga Jacobo, Kelley Scott T., Chen Yingfeng, Escobar Juan S., Mueller Noel T., Ley Ruth E., McDonald Daniel, **Huang Shi**, Swafford Austin D., Knight Rob, Thackray Varykina G.. Age- And sex-dependent patterns of gut microbial diversity in human adults, _mSystems_ 2019; 4(4): article no. e00261-19-article no. e00261-19 doi:10.1128/mSystems.00261-19.
+
+* Ji Wenyan#, Jiang Ting#, Sun Zheng#, Teng Fei, Ma Chenchen, **Huang Shi***, Yan Suhua*. The Enhanced Pharmacological Effects of Modified Traditional Chinese Medicine in Attenuation of Atherosclerosis Is Driven by Modulation of Gut Microbiota, _Frontiers in Pharmacology_ 2020; 11: article no. 546589-article no. 546589 doi:10.3389/fphar.2020.546589
+
+* Li Shanshan#, **Huang Shi#**, Guo Yi, Zhang Ying, Zhang Lijuan, Li Fan, Tan Kaixuan, Lu Jie, Chen Zhenggang, Guo Qingyuan, Tang Yongping, Teng Fei*, Yang Fang*. Geographic Variation Did Not Affect the Predictive Power of Salivary Microbiota for Caries in Children With Mixed Dentition, _Frontiers in Cellular and Infection Microbiology_ 2021; 11: article no. 680288-article no. 680288 doi:10.3389/fcimb.2021.680288
+
+* Zhang Ying#, Huang Shi#, Jia Songbo, Sun Zheng, Li Shanshan, Li Fan, Zhang Lijuan, Lu Jie, Tan Kaixuan, Teng Fei*, Yang Fang*. The predictive power of saliva electrolytes exceeds that of saliva microbiomes in diagnosing early childhood caries, _Journal of Oral Microbiology_ 2021; 13(1): article no. 1921486-article no. 1921486 doi:10.1080/20002297.2021.1921486
 
 ### Probiotics and human microbiome
 * **Huang Shi**, Jiang Shuaiming, Huo Dongxue, Allaband Celeste, Estaki Mehrbod, Cantu Victor, Belda-Ferre Pedro, Vázquez-Baeza Yoshiki, Zhu Qiyun, Ma Chenchen, Li Congfa, Zarrinpar Amir, Liu Yang Yu, Knight Rob, Zhang Jiachao. Candidate probiotic Lactiplantibacillus plantarum HNU082 rapidly and convergently evolves within human, mice, and zebrafish gut but differentially influences the resident microbiome, _Microbiome_ 2021; 9(1): article no. 151-article no. 151 doi:10.1186/s40168-021-01102-0
