@@ -19,7 +19,7 @@ You can find more details here [https://facdent.hku.hk/about/staff-profile.php?s
 
 <img width="100" alt="image" src="https://github.com/HuangShiLab/HuangShiLab.github.io/assets/170502144/05bcf627-5cdc-4c08-8feb-2055cf40e942">
 
-She majored in Computer Science during her undergraduate and master's studies and is currently focusing on bioinformatics, particularly in software development and data analysis for microbiome data. Her current work involves strain-level profiling and functional prediction of microbiota in low-microbial-biomass samples. In her free time, she enjoys hiking and cooking.
+Yufeng majored in Computer Science during her undergraduate and master's studies and is currently focusing on bioinformatics, particularly in software development and data analysis for microbiome data. Her current work involves strain-level profiling and functional prediction of microbiota in low-microbial-biomass samples. In her free time, she enjoys hiking and cooking.
 
 ## Yuesong Jiang, PhD student
 
