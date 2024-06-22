@@ -1,4 +1,4 @@
-# Principle Investigator
+![wanggang2](https://github.com/HuangShiLab/HuangShiLab.github.io/assets/170502144/d2b60afc-b72b-4c1e-bdc2-d8abf58a9c46)# Principle Investigator
 
 <img width="100" alt="image" src="https://github.com/HuangShiLab/HuangShiLab.github.io/assets/170502144/1fe82cbd-fbb9-4e57-bc04-e63928e89cc7">
 
@@ -40,7 +40,7 @@ Shuwen obtained her BSc in biochemistry at HKU in 2023. Her current projects foc
 
 ## Gang Wang, PhD student
 
-<img width="100" alt="image" src="https://github.com/HuangShiLab/HuangShiLab.github.io/assets/170502144/bfa390d9-6f76-45ba-b01f-535b8afcf3e3">
+<img width="100" alt="image" src="https://github.com/HuangShiLab/HuangShiLab.github.io/assets/170502144/38064b34-c19c-4952-835d-105042f0a3c1">
 
 He majored in Oral Medicine during his undergraduate and master's studies, developing a strong interest in oral microbiota. In the fall of 2024, he will begin his doctoral degree in this field. Currently, his research focuses on the interplay between oral microbiota and neurodegenerative diseases, such as Alzheimer's Disease. In his free time, he enjoys reading and cycling.
 
