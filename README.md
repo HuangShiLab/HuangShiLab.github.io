@@ -37,7 +37,7 @@ Shuwen obtained her BSc in biochemistry at HKU in 2023. Her current projects foc
 
 <img width="100" alt="image" src="https://github.com/HuangShiLab/HuangShiLab.github.io/assets/170502144/00912879-9131-43f0-9cd7-d6b6a70a0683">
 
-
+Enoch was a Biochemistry major in his undergraduate years and worked on RNA aptamers as his final year project. His current focuses are Helicobacter pylori and the oral-stomach axis. Other than science, Enoch finds his passion in music, linguistics, and fitness.
 
 ## Gang Wang, PhD student
 
