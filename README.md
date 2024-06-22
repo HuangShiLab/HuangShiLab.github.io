@@ -50,18 +50,15 @@ He majored in Oral Medicine during his undergraduate and master's studies, devel
 
 # Awards 
 
-* **Best Poster Award**, 2nd Frontiers Forum on Next-Generation Biomaterials in Dental Medicine, 2 June 2024, Hong Kong, China. Title: Strain-resolved taxonomic profiling and functional prediction of human microbiota using Strain2bFunc.
-*  **HKU TEC MedTech Hackathon 2024 Finalist Award**, HKU TEC MedTech Hackathon 2024, Hong Kong, China, Project title: Effective mining of Autologous Probiotics (ProbioMine Biotech.). 
-* **Best Poster Award**, SMART Symposium: Microbiota in Health and Disease, Shenzhen, China (13-14 Jan 2024). Title: A key genetic factor governing arabinan utilization in the gut microbiome alleviates constipation.
-* **Poster of Distinction Award**, International Digestive Disease Forum (IDDF), 10/06/2023-11/06/2023, Hong Kong, China. Title: Strain-resolved taxonomic profiling and functional prediction of human microbiota using Strain2bFunc; A120-A123 doi:10.1136/gutjnl-2023-IDDF.106 
-* **Best Poster Award**, TU-HKU-FJMU International Symposium, 17 November 2022, Hong Kong, China. Title: Strain-resolved taxonomic profiling and functional prediction of human microbiota using Strain2bFunc.
-
-* **Qingdao Science and Technology Progress Second-class Award**, 2021, “Mechanistic understanding of oral-microbiome-based diagnosis and prediction of diseases and its applications” 
-(Co-I)
-* **Shandong Science and Technology Progress Third-class Award**, 2022, “In-depth oral microbiome analysis based on next-generation sequencing technology for construction and application of the caries risk assessment model” (Co-I)
-* **International Postdoctoral Exchange Fellowship Program** (China Postdoctoral Science Foundation), 2017-2018
-* **China Postdoctoral Science Foundation-CAS Joint Fellowship for Excellent Postdoctoral Fellows** (2016LH00036) 2016-2018
-
+* **Best Poster Award**, 2nd Frontiers Forum on Next-Generation Biomaterials in Dental Medicine, 2 June 2024, Hong Kong, China. Title: Strain-resolved taxonomic profiling and functional prediction of human microbiota using Strain2bFunc. Presenter: **Yufeng Zhang**  
+*  **HKU TEC MedTech Hackathon 2024 Finalist Award**, HKU TEC MedTech Hackathon 2024, Hong Kong, China, Project title: Effective mining of Autologous Probiotics (ProbioMine Biotech.). Presenter: **Dr. Shi Huang, Shuwen Hou, Yuesong Jiang, Enoch Kao**  
+* **Best Poster Award**, SMART Symposium: Microbiota in Health and Disease, Shenzhen, China (13-14 Jan 2024). Title: A key genetic factor governing arabinan utilization in the gut microbiome alleviates constipation. Presenter: **Dr. Shi Huang**  
+* **Poster of Distinction Award**, International Digestive Disease Forum (IDDF), 10/06/2023-11/06/2023, Hong Kong, China. Title: Strain-resolved taxonomic profiling and functional prediction of human microbiota using Strain2bFunc; A120-A123 doi:10.1136/gutjnl-2023-IDDF.106.  Presenter: **Dr. Shi Huang**   
+* **Best Poster Award**, TU-HKU-FJMU International Symposium, 17 November 2022, Hong Kong, China. Title: Strain-resolved taxonomic profiling and functional prediction of human microbiota using Strain2bFunc. Presenter: **Dr. Shi Huang**  
+* **Qingdao Science and Technology Progress Second-class Award**, 2021, “Mechanistic understanding of oral-microbiome-based diagnosis and prediction of diseases and its applications” (Co-I). Presenter: **Dr. Shi Huang**  
+* **Shandong Science and Technology Progress Third-class Award**, 2022, “In-depth oral microbiome analysis based on next-generation sequencing technology for construction and application of the caries risk assessment model” (Co-I). Presenter: **Dr. Shi Huang**  
+* **International Postdoctoral Exchange Fellowship Program** (China Postdoctoral Science Foundation), 2017-2018, Presenter: **Dr. Shi Huang**  
+* **China Postdoctoral Science Foundation-CAS Joint Fellowship for Excellent Postdoctoral Fellows** (2016LH00036), 2016-2018, Presenter: **Dr. Shi Huang**  
 
 # Selective publications
 
