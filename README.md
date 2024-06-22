@@ -15,7 +15,7 @@ You can find more details here [https://facdent.hku.hk/about/staff-profile.php?s
 
 # Current members
 
-* **Yufeng Zhang**, PhD student
+## **Yufeng Zhang**, PhD student
 
 <img width="100" alt="image" src="https://github.com/HuangShiLab/HuangShiLab.github.io/assets/170502144/07f73e0c-d18b-42b1-8cae-9422fee6bdb9">
 
