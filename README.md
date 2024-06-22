@@ -35,11 +35,14 @@ Shuwen obtained her BSc in biochemistry at HKU in 2023. Her current projects foc
 
 ## Enoch Kao, MPhil student
 
+<img width="100" alt="image" src="https://github.com/HuangShiLab/HuangShiLab.github.io/assets/170502144/ec294c89-d46d-4220-b303-593bcee48f0f">
 
 
 ## Gang Wang, PhD student
 
+<img width="100" alt="image" src="https://github.com/HuangShiLab/HuangShiLab.github.io/assets/170502144/bfa390d9-6f76-45ba-b01f-535b8afcf3e3">
 
+He majored in Oral Medicine during his undergraduate and master's studies, developing a strong interest in oral microbiota. In the fall of 2024, he will begin his doctoral degree in this field. Currently, his research focuses on the interplay between oral microbiota and neurodegenerative diseases, such as Alzheimer's Disease. In his free time, he enjoys reading and cycling.
 
 # Past members
 * Shuaiming Jiang
