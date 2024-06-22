@@ -23,9 +23,9 @@ She majored in Computer Science during her undergraduate and master's studies an
 
 * Yuesong Jiang
 
-* Shuwen's photo
-* **Shuwen Hou**, PhD student<br/>
 
+* **Shuwen Hou**, PhD student<br/>
+Shuwen's photo
 Shuwen obtained her BSc in biochemistry at HKU in 2023. Her current projects focus on low-biomass human microbiome analysis. In her free time, Shuwen enjoys hiking and watching TV series.
 
 
