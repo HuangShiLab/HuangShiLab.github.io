@@ -15,10 +15,11 @@ You can find more details here [https://facdent.hku.hk/about/staff-profile.php?s
 
 # Current members
 * <img width="100" alt="image" src="https://github.com/HuangShiLab/HuangShiLab.github.io/assets/170502144/07f73e0c-d18b-42b1-8cae-9422fee6bdb9">
-  **Yufeng Zhang**, PhD student  
+**Yufeng Zhang**, PhD student
 Yufeng majored in Computer Science during her undergraduate and master's studies, and is currently focusing on bioinformatics, particularly in the software development and data analysis for microbiome data. Her current work involves strain-level profiling and functional prediction of microbiota in low-microbial-biomass samples. In her free time, she enjoys hiking and cooking.
 * Yuesong Jiang
-* Shuwen Hou, PhD student<br/>
+* photo
+**Shuwen Hou**, PhD student<br/>
 Shuwen obtained her BSc in biochemistry at HKU in 2023. Her current projects focus on low-biomass human microbiome analysis. In her free time, Shuwen enjoys hiking and watching TV series.
 * Enoch Kao
 * Gang Wang
