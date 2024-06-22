@@ -1,4 +1,4 @@
-![wanggang2](https://github.com/HuangShiLab/HuangShiLab.github.io/assets/170502144/d2b60afc-b72b-4c1e-bdc2-d8abf58a9c46)# Principle Investigator
+# Principle Investigator
 
 <img width="100" alt="image" src="https://github.com/HuangShiLab/HuangShiLab.github.io/assets/170502144/1fe82cbd-fbb9-4e57-bc04-e63928e89cc7">
 
