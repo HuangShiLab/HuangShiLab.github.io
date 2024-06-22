@@ -15,7 +15,7 @@ You can find more details here [https://facdent.hku.hk/about/staff-profile.php?s
 
 # Current members
 
-## **Yufeng Zhang**, PhD student
+## Yufeng Zhang, PhD student
 
 <img width="100" alt="image" src="https://github.com/HuangShiLab/HuangShiLab.github.io/assets/170502144/05bcf627-5cdc-4c08-8feb-2055cf40e942">
 
@@ -27,7 +27,7 @@ She majored in Computer Science during her undergraduate and master's studies an
 
 Yuesong completed his undergraduate studies majoring in Pharmacy at Nankai University. Currently, his research focuses on benchmarking bioinformatic tools for metagenomics and microbiome analysis under high host contamination. In his leisure time, he enjoys watching movies and exploring new restaurants.
 
-## **Shuwen Hou**, PhD student
+## Shuwen Hou, PhD student
 
 <img width="100" alt="image" src="https://github.com/HuangShiLab/HuangShiLab.github.io/assets/170502144/0b24d91d-c783-4f0f-ba7e-98ca5bf60215">
 
