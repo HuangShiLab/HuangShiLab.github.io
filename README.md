@@ -23,12 +23,18 @@ She majored in Computer Science during her undergraduate and master's studies an
 
 ## Yuesong Jiang, PhD student
 
+<img width="100" alt="image" src="https://github.com/HuangShiLab/HuangShiLab.github.io/assets/170502144/94f1f0d1-057e-4d2c-9000-b2a6cbd0b04f">
+
+
 
 ## **Shuwen Hou**, PhD student<br/>
-Shuwen's photo
+
+<img width="100" alt="image" src="https://github.com/HuangShiLab/HuangShiLab.github.io/assets/170502144/0b24d91d-c783-4f0f-ba7e-98ca5bf60215">
+
 Shuwen obtained her BSc in biochemistry at HKU in 2023. Her current projects focus on low-biomass human microbiome analysis. In her free time, Shuwen enjoys hiking and watching TV series.
 
 ## Enoch Kao, MPhil student
+
 
 
 ## Gang Wang, PhD student
