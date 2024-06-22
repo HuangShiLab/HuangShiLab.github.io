@@ -46,7 +46,7 @@ Enoch was a Biochemistry major in his undergraduate years and worked on RNA apta
 He majored in Oral Medicine during his undergraduate and master's studies, developing a strong interest in oral microbiota. In the fall of 2024, he will begin his doctoral degree in this field. Currently, his research focuses on the interplay between oral microbiota and neurodegenerative diseases, such as Alzheimer's Disease. In his free time, he enjoys reading and cycling.
 
 # Past members
-* Shuaiming Jiang
+* Shuaiming Jiang (Hainan University, China)
 
 # Awards 
 
