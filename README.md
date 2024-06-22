@@ -35,7 +35,8 @@ Shuwen obtained her BSc in biochemistry at HKU in 2023. Her current projects foc
 
 ## Enoch Kao, MPhil student
 
-<img width="100" alt="image" src="https://github.com/HuangShiLab/HuangShiLab.github.io/assets/170502144/ec294c89-d46d-4220-b303-593bcee48f0f">
+<img width="100" alt="image" src="https://github.com/HuangShiLab/HuangShiLab.github.io/assets/170502144/00912879-9131-43f0-9cd7-d6b6a70a0683">
+
 
 
 ## Gang Wang, PhD student
