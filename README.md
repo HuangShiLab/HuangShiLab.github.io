@@ -25,7 +25,7 @@ She majored in Computer Science during her undergraduate and master's studies an
 
 <img width="100" alt="image" src="https://github.com/HuangShiLab/HuangShiLab.github.io/assets/170502144/94f1f0d1-057e-4d2c-9000-b2a6cbd0b04f">
 
-
+Yuesong completed his undergraduate studies majoring in Pharmacy at Nankai University. Currently, his research focuses on benchmarking bioinformatic tools for metagenomics and microbiome analysis under high host contamination. In his leisure time, he enjoys watching movies and exploring new restaurants.
 
 ## **Shuwen Hou**, PhD student<br/>
 
