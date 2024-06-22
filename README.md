@@ -63,16 +63,16 @@ He majored in Oral Medicine during his undergraduate and master's studies, devel
 * **China Postdoctoral Science Foundation-CAS Joint Fellowship for Excellent Postdoctoral Fellows** (2016LH00036) 2016-2018
 
 
-## Selective publications
+# Selective publications
 
-### Metagenomics method development
+## Metagenomics method development
 * Sun Z#, **Huang S#,**, Zhu P, Lam T, Zhao H, Lv J, Zhang R, Zhou L, Niu Q, Wang X, Zhang M, Jing G, Bao Z, Liu J, Wang S*, Xu J*. Species-resolved sequencing of low-biomass or degraded microbiomes using 2bRAD-M, _Genome Biology_ 2022; 23: article no. 36-article no. 36 doi:10.1186/s13059-021-02576-9
 
 * Zhu Q#, **Huang S#**, Gonzalez A, McGrath I, McDonald D, Haiminen N, Armstrong G, Vazquez-Baeza Y, Yu J, Kuczynski J, Sepich-Poore GD, Swafford AD, Das P, Shaffer JP, Lejzerowicz F, Belda-Ferre P, Havulinna AS, Meric G, Niiranen T, Lahti L, Salomaa V, Kim HC, Jain M, Inouye M, Gilbert JA, Knight R. Phylogeny-Aware Analysis of Metagenome Community Ecology Based on Matched Reference Genomes while Bypassing Taxonomy, _mSystems_ 2022; e0016722-e0016722 doi:10.1128/msystems.00167-22
 
 * Sun Zheng#, **Huang Shi#**, Zhang Meng, Zhu Qiyun, Haiminen Niina, Carrieri Anna Paola, Vázquez-Baeza Yoshiki, Parida Laxmi, Kim Ho Cheol, Knight Rob, Liu Yang Yu. Challenges in benchmarking metagenomic profilers, _Nature Methods_ 2021; 18(6): 618-626 doi:10.1038/s41592-021-01141-3
 
-### Human microbiome association with chronic diseases
+## Human microbiome association with chronic diseases
 * **Huang S**, He T, Yue F, Xu X, Wang L, Zhu P, Teng F, Sun Z, Liu X, Jing G, Su X, Jin L, Liu J, Xu J*. Longitudinal Multi-omics and Microbiome Meta-analysis Identify an Asymptomatic Gingival State That Links Gingivitis, Periodontitis, and Aging, _mBio_ 2021; 12(2): article no. e03281-20-article no. e03281-20 doi:10.1128/mBio.03281-20
 
 * **Huang Shi**, Haiminen Niina, Carrieri Anna Paola, Hu Rebecca, Jiang Lingjing, Parida Laxmi, Russell Baylee, Allaband Celeste, Zarrinpar Amir, Vázquez-Baeza Yoshiki, Belda-Ferre Pedro, Zhou Hongwei, Kim Ho Cheol, Swafford Austin D., Knight Rob, Xu Zhenjiang Zech#. Human skin, oral, and gut microbiomes predict chronological age, _mSystems_ 2020; 5(1): article no. e00630-19-article no. e00630-19 doi:10.1128/mSystems.00630-19
@@ -103,7 +103,7 @@ He majored in Oral Medicine during his undergraduate and master's studies, devel
 
 * Zhang Ying#, **Huang Shi#**, Jia Songbo, Sun Zheng, Li Shanshan, Li Fan, Zhang Lijuan, Lu Jie, Tan Kaixuan, Teng Fei*, Yang Fang*. The predictive power of saliva electrolytes exceeds that of saliva microbiomes in diagnosing early childhood caries, _Journal of Oral Microbiology_ 2021; 13(1): article no. 1921486-article no. 1921486 doi:10.1080/20002297.2021.1921486
 
-### Probiotics and human microbiome
+## Probiotics and human microbiome
 * **Huang Shi**, Jiang Shuaiming, Huo Dongxue, Allaband Celeste, Estaki Mehrbod, Cantu Victor, Belda-Ferre Pedro, Vázquez-Baeza Yoshiki, Zhu Qiyun, Ma Chenchen, Li Congfa, Zarrinpar Amir, Liu Yang Yu, Knight Rob, Zhang Jiachao. Candidate probiotic Lactiplantibacillus plantarum HNU082 rapidly and convergently evolves within human, mice, and zebrafish gut but differentially influences the resident microbiome, _Microbiome_ 2021; 9(1): article no. 151-article no. 151 doi:10.1186/s40168-021-01102-0
 
 * Zhang CC, Yu LL, Ma CC, Jiang SM, Zhang YF, Wang SH, Tian FW, Xue YZ, Zhao JX, Zhang H, Liu LM, Chen W, **Huang S***, Zhang JC*, Zhai QX*. A key genetic factor governing arabinan utilization in the gut microbiome alleviates constipation, _Cell Host & Microbe_ 2023; 31(12): 1989-2006 doi:10.1016/j.chom.2023.10.011
