@@ -7,6 +7,13 @@ In recent years, he published >40 research papers in peer-reviewed journals, inc
 
 You can find more details here [https://facdent.hku.hk/about/staff-profile.php?shortname=shihuang](https://facdent.hku.hk/about/staff-profile.php?shortname=shihuang).
 
+** Mail address: 
+
+Faculty of Dentistry, The University of Hong Kong,
+Room 2A10, Prince Philip Dental Hospital,
+34 Hospital Road, Sai Ying Pun, Hong Kong
+
+
 # Research Interests
 * Metagenomics method development
 * Human microbiome association with chronic diseases
