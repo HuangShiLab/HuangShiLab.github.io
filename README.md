@@ -7,15 +7,14 @@ In recent years, he published >40 research papers in peer-reviewed journals, inc
 
 You can find more details here [https://facdent.hku.hk/about/staff-profile.php?shortname=shihuang](https://facdent.hku.hk/about/staff-profile.php?shortname=shihuang).
 
-* Address:
+* Contact us: 
 
+Address:
 Faculty of Dentistry, The University of Hong Kong,
 Room 2A10, Prince Philip Dental Hospital,
 34 Hospital Road, Sai Ying Pun, Hong Kong
 
-* Email:
-
-shihuang@hku.hk
+Email: shihuang@hku.hk
 
 
 # Research Interests
