@@ -1,4 +1,4 @@
-# Principle Investigator
+# Principal Investigator
 
 <img width="100" alt="image" src="https://github.com/HuangShiLab/HuangShiLab.github.io/assets/170502144/1fe82cbd-fbb9-4e57-bc04-e63928e89cc7">
 
