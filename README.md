@@ -3,7 +3,7 @@
 <img width="100" alt="image" src="https://github.com/HuangShiLab/HuangShiLab.github.io/assets/170502144/1fe82cbd-fbb9-4e57-bc04-e63928e89cc7">
 
 Dr. **HUANG Shi** is an assistant professor in the Faculty of Dentistry, the University of Hong Kong. He has been engaged in microbiome research for over 10 years and made significant contributions in many frontiers in microbiome science. Firstly, he established a range of microbiome-based indices for the diagnosis and prediction of chronic diseases (such as dental caries, periodontal disease, gut health, skin health, aging, etc.). He first demonstrated that the onset of chronic diseases (e.g., dental caries) can be predicted by the human microbiome before the emergence of clinical symptoms. Secondly, he’s been focused on the basic metagenomics method development for years and is also an expert in benchmarking bioinformatic tools for metagenomics. To address the challenging low-biomass issue, he pioneered in developing a novel metagenomic sequencing strategy (i.e., 2bRAD-M), enabling the species-resolved, cost-effective microbiota profiling of challenging clinical samples (such as, FFPE tumor tissue, etc.). Last but not least, he has been actively exploiting the adaptive co-evolution between ingested probiotic bacteria and resident gut microbiota and developing personalized probiotic solutions that offer long-lasting efficacious probiotics for human health. 
-In recent years, he published >40 research papers in peer-reviewed journals, including 20 first- or corresponding-authored papers published in **_Nature Methods_**, **_Cell Host Microbe_**, **_Microbiome_**, **_Genome Biology_**, **_ISMEJ_**, etc. His H-index has reached 32. His research has been funded by NSFC, HMRF, etc. He has five authorized microbiome-related patents (two international patents). He is also serving as a journal editor for iMeta, mSystems, Innovation, etc.
+In recent years, he published >40 research papers in peer-reviewed journals, including 20 first- or corresponding-authored papers published in **_Nature Methods_**, **_Cell Host Microbe_**, **_Microbiome_**, **_Genome Biology_**, **_ISMEJ_**, etc. His H-index has reached 37. His research has been funded by NSFC, HMRF, etc. He has five authorized microbiome-related patents (two international patents). He is also serving as a journal editor for iMeta, mSystems, Innovation, etc.
 
 You can find more details here [https://facdent.hku.hk/about/staff-profile.php?shortname=shihuang](https://facdent.hku.hk/about/staff-profile.php?shortname=shihuang).
 
@@ -54,6 +54,18 @@ Enoch was a Biochemistry major in his undergraduate years and worked on RNA apta
 <img width="100" alt="image" src="https://github.com/HuangShiLab/HuangShiLab.github.io/assets/170502144/38064b34-c19c-4952-835d-105042f0a3c1">
 
 He majored in Oral Medicine during his undergraduate and master's studies, developing a strong interest in oral microbiota. In the fall of 2024, he will begin his doctoral degree in this field. Currently, his research focuses on the interplay between oral microbiota and neurodegenerative diseases, such as Alzheimer's Disease. In his free time, he enjoys reading and cycling.
+
+## Caihao Sun, PhD student
+
+<img width="100" alt="image" src="https://github.com/user-attachments/assets/0f3957ed-7827-470f-a08d-da3b1f78c0f2">
+
+He received the B.S. degree in Aerospace Science and Technology from Xidian University, Xi’an, China in 2021 and the M.S. degree in Electronic and Information Engineering (AI Direction). He majored in deep learning, computer vision, and hyperspectral image classification and published journals on RS and IEEE JSTARS as first author. He is currently working toward the Ph.D. under the guidance of Prof. Huang. His research interests include deep learning, LLM, and Bioinformation. Please feel free to contact Sun via email address: blinksch778@gmail.com.
+
+## Xinyue Zhang, PhD student
+
+<img width="100" alt="image" src="https://github.com/user-attachments/assets/c6ec4e66-79e8-4ae0-80f6-71d4c8fd9bf7">
+
+She majored in Dentistry during her undergraduate studies and researched microbiology during her master's program. Currently, her research focuses on the antimicrobial resistance mechanisms of bacterial microbiota in saliva. In her spare time, she enjoys sports, especially squash and Pilates.
 
 # Past members
 * Shuaiming Jiang (Hainan University, China)
