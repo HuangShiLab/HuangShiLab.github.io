@@ -122,6 +122,8 @@ She majored in Dentistry during her undergraduate studies and researched microbi
 
 * Zhang Ying#, **Huang Shi#**, Jia Songbo, Sun Zheng, Li Shanshan, Li Fan, Zhang Lijuan, Lu Jie, Tan Kaixuan, Teng Fei*, Yang Fang*. The predictive power of saliva electrolytes exceeds that of saliva microbiomes in diagnosing early childhood caries, _Journal of Oral Microbiology_ 2021; 13(1): article no. 1921486-article no. 1921486 doi:10.1080/20002297.2021.1921486
 
+* Jiang T, Zhang M, Hao S, **Huang S***, Zheng X*, Sun Z*. Revealing the role of the gut microbiota in enhancing targeted therapy efficacy for lung adenocarcinoma. Exp Hematol Oncol. 2024 Feb 9;13(1):15. doi: 10.1186/s40164-024-00478-7. PMID: 38336927; PMCID: PMC10854116.
+
 ## Probiotics and human microbiome
 * **Huang Shi**, Jiang Shuaiming, Huo Dongxue, Allaband Celeste, Estaki Mehrbod, Cantu Victor, Belda-Ferre Pedro, Vázquez-Baeza Yoshiki, Zhu Qiyun, Ma Chenchen, Li Congfa, Zarrinpar Amir, Liu Yang Yu, Knight Rob, Zhang Jiachao. Candidate probiotic Lactiplantibacillus plantarum HNU082 rapidly and convergently evolves within human, mice, and zebrafish gut but differentially influences the resident microbiome, _Microbiome_ 2021; 9(1): article no. 151-article no. 151 doi:10.1186/s40168-021-01102-0
 
