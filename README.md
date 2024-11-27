@@ -84,16 +84,20 @@ She majored in Dentistry during her undergraduate studies and researched microbi
 * **China Postdoctoral Science Foundation-CAS Joint Fellowship for Excellent Postdoctoral Fellows** (2016LH00036), 2016-2018, **Dr. Shi Huang**
 
 # Invited Speaker: 
+
 * 2024 中国工程院工程科技高层研讨会-精准营养与微生物生态暨第五届益生菌、肠道微生物与人体健康国际研讨会, Wuxi, China (3/12/2024)
 * 2024 Annual Academic Meeting of the Chinese Association of Microbial Ecology, Qingdao, China (25-28/10/2024)
 * 2024 NCCBB (The national computational biology and bioinformatic conference) (12-17/07/2024)
 * Life & Health Technology Expo 2024, Hong Kong (27-29/06/2024)
 * 2023 China Gut Conference, Beijing, China (20-22/5/2023)
 * The Research and Transformation Platform for Maternal and Child Oral Health Prevention and Control in Guangdong-Hong Kong-Macao Bay Area (GBA) Conference (9-10/03/2023)
+  
 * China Medical University (2024) 
 * Sun Yat-sen University (2024)
 * The First Bethune Hospital of Jilin University, Changchun (25-26/09/2024)
-* The Affiliated Stomatological Hospital of Nanchang University, The First Affiliated Hospital of Nanchang University, and The Second Affiliated Hospital of Nanchang University, Jiangxi, China (7-9/08/2024)
+* The Affiliated Stomatological Hospital of Nanchang University,
+  The First Affiliated Hospital of Nanchang University,
+  and The Second Affiliated Hospital of Nanchang University, Jiangxi, China (7-9/08/2024)
 * Fujian Cancer Hospital (09-11/04/2024)
 * Nanchang University (2024) 
 * Jiangnan University (2022, 2023)
