@@ -159,5 +159,38 @@ She majored in Dentistry during her undergraduate studies and researched microbi
 * Ma Chenchen#, Wasti Sanjeev#, **Huang Shi#**, Zhang Zeng, Mishra Rajeev, Jiang Shuaiming, You Zhengkai, Wu Yixuan, Chang Haibo, Wang Yuanyuan, Huo Dongxue, Li Congfa, Sun Zhihong, Sun Zheng*, Zhang Jiachao*. The gut microbiome stability is altered by probiotic ingestion and improved by the continuous supplementation of galactooligosaccharide, _Gut Microbes_ 2020; 12(1): article no. 1785252-article no. 1785252 doi:10.1080/19490976.2020.1785252
 * Ma Chenchen#, Zhang Chengcheng#, Chen Denghui#, Jiang Shuaiming, Shen Siyuan, Huo Dongxue, **Huang Shi***, Zhai Qixiao*, Zhang Jiachao*. Probiotic consumption influences universal adaptive mutations in indigenous human and mouse gut microbiota, _Communications Biology_ 2021; 4(1): article no. 1198-article no. 1198 doi:10.1038/s42003-021-02724-8
 
+# Overview of Raman Facilities
 
+## Flow-mode Raman-activated Cell Sorter, FlowRACS
+![image](https://github.com/user-attachments/assets/8c4b8c03-dc9f-4958-af86-84ab2ee4a595)
+**Function / Capability**
+* Acquisition of single-cell Raman spectra with high-quality
+* Label-free, automated high-throughput single-cell sorting
+* Allows metabolic phenome-based profiling and sorting of cells at high speed (up to 2000 events/min)
+* Maximal preservation of cell vitality and viability
+* Intelligent data analysis
 
+## Raman-activated Single-cell Sorting and Sequencing, RACS-Seq
+![image](https://github.com/user-attachments/assets/6c1b25fd-71c5-4583-b1e5-f9b130f977d2)
+**Function / Capability**
+* The world's first instrument system for Raman-activated cell sorting and sequencing
+* Rapid profiling of metabolic phenome in a label-free and multi-dimensional manner
+* Precisely and readily acquiring target cells with their in situ activity preserved
+* Single-cell DNA/RNA extraction and amplification with low bias and high sequence coverage
+
+## Single-cell microdroplet Sorting System, EasySort Compact
+![image](https://github.com/user-attachments/assets/8f0a471c-8e0d-49c5-ab95-de54688dc6e8)
+**Function / Capability**
+* AI-assisted identification and automatic sorting while preserving the in situ state of cells
+* Built-in bright-field and fluorescence modules enable maximal flexibility in identifying target cells
+* Rapidly wrapping target single cells (diameter > 0.5 μm) into microdroplets
+* Fully integrated design of the system with a user-friendly interface
+
+# Access Log for Raman Facilities
+* On 2024/04/23, the Qingdao government delegation led by Wang Bo, Vice Mayor of Qingdao, visited Raman facilities.
+* On 2024/08/16, Prof. Tsoi James Kit Hon's group from the HKU Faculty of Dentistry utilized the RACS-Seq.
+* On 2024/08/23, Prof. Liu Fang’s team from the HKU Faculty of Medicine utilized the FlowRACS.
+* On 2024/09/04, Prof. Ye Zhou's group from the HKU Faculty of Dentistry utilized the RACS-Seq.
+* On 2024/11/04, a government delegation led by Liu Luying, Minister of the Organization Department of Qingdao West Coast New Area, visited Raman facilities.
+* On 2024/11/23, Prof. Wang Kailiang’s group from HKBU utilized the FlowRACS.
+* On 2024/12/13, Prof. Ye Zhou's group from the HKU Faculty of Dentistry utilized the FlowRACS.
