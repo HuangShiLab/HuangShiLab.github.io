@@ -23,51 +23,51 @@ Room 2A10, Prince Philip Dental Hospital,
 * Adaptive co-evolution of probiotics and native gut microbiome
 * Machine learning applications in microbiome data
 
-# Current members
+# Current Members
 
-## Yufeng Zhang, PhD student
+## Yufeng Zhang, PhD Student
 
 <img width="100" alt="image" src="https://github.com/HuangShiLab/HuangShiLab.github.io/assets/170502144/05bcf627-5cdc-4c08-8feb-2055cf40e942">
 
 Yufeng majored in Computer Science during her undergraduate and master's studies and is currently focusing on bioinformatics, particularly in software development and data analysis for microbiome data. Her current work involves strain-level profiling and functional prediction of microbiota in low-microbial-biomass samples. In her free time, she enjoys hiking and cooking.
 
-## Yuesong Jiang, PhD student
+## Yuesong Jiang, PhD Student
 
 <img width="100" alt="image" src="https://github.com/HuangShiLab/HuangShiLab.github.io/assets/170502144/94f1f0d1-057e-4d2c-9000-b2a6cbd0b04f">
 
 Yuesong completed his undergraduate studies majoring in Pharmacy at Nankai University. Currently, his research focuses on benchmarking bioinformatic tools for metagenomics and microbiome analysis under high host contamination. In his leisure time, he enjoys watching movies and exploring new restaurants.
 
-## Shuwen Hou, PhD student
+## Shuwen Hou, PhD Student
 
 <img width="100" alt="image" src="https://github.com/HuangShiLab/HuangShiLab.github.io/assets/170502144/0b24d91d-c783-4f0f-ba7e-98ca5bf60215">
 
 Shuwen obtained her BSc in biochemistry at HKU in 2023. Her current projects focus on low-biomass human microbiome analysis. In her free time, Shuwen enjoys hiking and watching TV series.
 
-## Enoch Kao, MPhil student
+## Enoch Kao, MPhil Student
 
 <img width="100" alt="image" src="https://github.com/HuangShiLab/HuangShiLab.github.io/assets/170502144/00912879-9131-43f0-9cd7-d6b6a70a0683">
 
 Enoch was a Biochemistry major in his undergraduate years and worked on RNA aptamers as his final year project. His current focuses are Helicobacter pylori and the oral-stomach axis. Other than science, Enoch finds his passion in music, linguistics, and fitness.
 
-## Gang Wang, PhD student
+## Gang Wang, PhD Student
 
 <img width="100" alt="image" src="https://github.com/HuangShiLab/HuangShiLab.github.io/assets/170502144/38064b34-c19c-4952-835d-105042f0a3c1">
 
 He majored in Oral Medicine during his undergraduate and master's studies, developing a strong interest in oral microbiota. In the fall of 2024, he will begin his doctoral degree in this field. Currently, his research focuses on the interplay between oral microbiota and neurodegenerative diseases, such as Alzheimer's Disease. In his free time, he enjoys reading and cycling.
 
-## Caihao Sun, PhD student
+## Caihao Sun, PhD Student
 
 <img width="100" alt="image" src="https://github.com/user-attachments/assets/0f3957ed-7827-470f-a08d-da3b1f78c0f2">
 
 He received the B.S. degree in Aerospace Science and Technology from Xidian University, Xi’an, China in 2021 and the M.S. degree in Electronic and Information Engineering (AI Direction). He majored in deep learning, computer vision, and hyperspectral image classification and published journals on RS and IEEE JSTARS as first author. He is currently working toward the Ph.D. under the guidance of Prof. Huang. His research interests include deep learning, LLM, and Bioinformation. Please feel free to contact Sun via email address: blinksch778@gmail.com.
 
-## Xinyue Zhang, PhD student
+## Xinyue Zhang, PhD Student
 
 <img width="100" alt="image" src="https://github.com/user-attachments/assets/c6ec4e66-79e8-4ae0-80f6-71d4c8fd9bf7">
 
 She majored in Dentistry during her undergraduate studies and researched microbiology during her master's program. Currently, her research focuses on the antimicrobial resistance mechanisms of bacterial microbiota in saliva. In her spare time, she enjoys sports, especially squash and Pilates.
 
-# Past members
+# Past Members
 * Shuaiming Jiang (Hainan University, China)
 
 # Awards 
@@ -107,16 +107,16 @@ She majored in Dentistry during her undergraduate studies and researched microbi
 * Innermongolia Agricultural University (2023)
 
 
-# Selective publications
+# Selective Publications
 
-## Metagenomics method development
+## Metagenomics Method Development
 * Sun Z#, **Huang S#,**, Zhu P, Lam T, Zhao H, Lv J, Zhang R, Zhou L, Niu Q, Wang X, Zhang M, Jing G, Bao Z, Liu J, Wang S*, Xu J*. Species-resolved sequencing of low-biomass or degraded microbiomes using 2bRAD-M, _Genome Biology_ 2022; 23: article no. 36-article no. 36 doi:10.1186/s13059-021-02576-9
 
 * Zhu Q#, **Huang S#**, Gonzalez A, McGrath I, McDonald D, Haiminen N, Armstrong G, Vazquez-Baeza Y, Yu J, Kuczynski J, Sepich-Poore GD, Swafford AD, Das P, Shaffer JP, Lejzerowicz F, Belda-Ferre P, Havulinna AS, Meric G, Niiranen T, Lahti L, Salomaa V, Kim HC, Jain M, Inouye M, Gilbert JA, Knight R. Phylogeny-Aware Analysis of Metagenome Community Ecology Based on Matched Reference Genomes while Bypassing Taxonomy, _mSystems_ 2022; e0016722-e0016722 doi:10.1128/msystems.00167-22
 
 * Sun Zheng#, **Huang Shi#**, Zhang Meng, Zhu Qiyun, Haiminen Niina, Carrieri Anna Paola, Vázquez-Baeza Yoshiki, Parida Laxmi, Kim Ho Cheol, Knight Rob, Liu Yang Yu. Challenges in benchmarking metagenomic profilers, _Nature Methods_ 2021; 18(6): 618-626 doi:10.1038/s41592-021-01141-3
 
-## Human microbiome association with chronic diseases
+## Human Microbiome Association with Chronic Diseases
 * **Huang S**, He T, Yue F, Xu X, Wang L, Zhu P, Teng F, Sun Z, Liu X, Jing G, Su X, Jin L, Liu J, Xu J*. Longitudinal Multi-omics and Microbiome Meta-analysis Identify an Asymptomatic Gingival State That Links Gingivitis, Periodontitis, and Aging, _mBio_ 2021; 12(2): article no. e03281-20-article no. e03281-20 doi:10.1128/mBio.03281-20
 
 * **Huang Shi**, Haiminen Niina, Carrieri Anna Paola, Hu Rebecca, Jiang Lingjing, Parida Laxmi, Russell Baylee, Allaband Celeste, Zarrinpar Amir, Vázquez-Baeza Yoshiki, Belda-Ferre Pedro, Zhou Hongwei, Kim Ho Cheol, Swafford Austin D., Knight Rob, Xu Zhenjiang Zech#. Human skin, oral, and gut microbiomes predict chronological age, _mSystems_ 2020; 5(1): article no. e00630-19-article no. e00630-19 doi:10.1128/mSystems.00630-19
@@ -149,7 +149,7 @@ She majored in Dentistry during her undergraduate studies and researched microbi
 
 * Jiang T, Zhang M, Hao S, **Huang S***, Zheng X*, Sun Z*. Revealing the role of the gut microbiota in enhancing targeted therapy efficacy for lung adenocarcinoma. Exp Hematol Oncol. 2024 Feb 9;13(1):15. doi: 10.1186/s40164-024-00478-7. PMID: 38336927; PMCID: PMC10854116.
 
-## Probiotics and human microbiome
+## Probiotics and Human Microbiome
 * **Huang Shi**, Jiang Shuaiming, Huo Dongxue, Allaband Celeste, Estaki Mehrbod, Cantu Victor, Belda-Ferre Pedro, Vázquez-Baeza Yoshiki, Zhu Qiyun, Ma Chenchen, Li Congfa, Zarrinpar Amir, Liu Yang Yu, Knight Rob, Zhang Jiachao. Candidate probiotic Lactiplantibacillus plantarum HNU082 rapidly and convergently evolves within human, mice, and zebrafish gut but differentially influences the resident microbiome, _Microbiome_ 2021; 9(1): article no. 151-article no. 151 doi:10.1186/s40168-021-01102-0
 
 * Zhang CC, Yu LL, Ma CC, Jiang SM, Zhang YF, Wang SH, Tian FW, Xue YZ, Zhao JX, Zhang H, Liu LM, Chen W, **Huang S***, Zhang JC*, Zhai QX*. A key genetic factor governing arabinan utilization in the gut microbiome alleviates constipation, _Cell Host & Microbe_ 2023; 31(12): 1989-2006 doi:10.1016/j.chom.2023.10.011
@@ -180,7 +180,7 @@ She majored in Dentistry during her undergraduate studies and researched microbi
 * Precisely and readily acquiring target cells with their in situ activity preserved
 * Single-cell DNA/RNA extraction and amplification with low bias and high sequence coverage
 
-## Single-cell microdroplet Sorting System, EasySort Compact
+## Single-cell Microdroplet Sorting System, EasySort Compact
 ![image](https://github.com/user-attachments/assets/8f0a471c-8e0d-49c5-ab95-de54688dc6e8)
 
 **Function / Capability**
