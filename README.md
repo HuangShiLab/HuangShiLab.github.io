@@ -163,6 +163,7 @@ She majored in Dentistry during her undergraduate studies and researched microbi
 
 ## Flow-mode Raman-activated Cell Sorter, FlowRACS
 ![image](https://github.com/user-attachments/assets/8c4b8c03-dc9f-4958-af86-84ab2ee4a595)
+
 **Function / Capability**
 * Acquisition of single-cell Raman spectra with high-quality
 * Label-free, automated high-throughput single-cell sorting
@@ -172,6 +173,7 @@ She majored in Dentistry during her undergraduate studies and researched microbi
 
 ## Raman-activated Single-cell Sorting and Sequencing, RACS-Seq
 ![image](https://github.com/user-attachments/assets/6c1b25fd-71c5-4583-b1e5-f9b130f977d2)
+
 **Function / Capability**
 * The world's first instrument system for Raman-activated cell sorting and sequencing
 * Rapid profiling of metabolic phenome in a label-free and multi-dimensional manner
@@ -180,13 +182,14 @@ She majored in Dentistry during her undergraduate studies and researched microbi
 
 ## Single-cell microdroplet Sorting System, EasySort Compact
 ![image](https://github.com/user-attachments/assets/8f0a471c-8e0d-49c5-ab95-de54688dc6e8)
+
 **Function / Capability**
 * AI-assisted identification and automatic sorting while preserving the in situ state of cells
 * Built-in bright-field and fluorescence modules enable maximal flexibility in identifying target cells
 * Rapidly wrapping target single cells (diameter > 0.5 μm) into microdroplets
 * Fully integrated design of the system with a user-friendly interface
 
-# Access Log for Raman Facilities
+## Access Log for Raman Facilities
 * On 2024/04/23, the Qingdao government delegation led by Wang Bo, Vice Mayor of Qingdao, visited Raman facilities.
 * On 2024/08/16, Prof. Tsoi James Kit Hon's group from the HKU Faculty of Dentistry utilized the RACS-Seq.
 * On 2024/08/23, Prof. Liu Fang’s team from the HKU Faculty of Medicine utilized the FlowRACS.
