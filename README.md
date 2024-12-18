@@ -159,7 +159,7 @@ She majored in Dentistry during her undergraduate studies and researched microbi
 * Ma Chenchen#, Wasti Sanjeev#, **Huang Shi#**, Zhang Zeng, Mishra Rajeev, Jiang Shuaiming, You Zhengkai, Wu Yixuan, Chang Haibo, Wang Yuanyuan, Huo Dongxue, Li Congfa, Sun Zhihong, Sun Zheng*, Zhang Jiachao*. The gut microbiome stability is altered by probiotic ingestion and improved by the continuous supplementation of galactooligosaccharide, _Gut Microbes_ 2020; 12(1): article no. 1785252-article no. 1785252 doi:10.1080/19490976.2020.1785252
 * Ma Chenchen#, Zhang Chengcheng#, Chen Denghui#, Jiang Shuaiming, Shen Siyuan, Huo Dongxue, **Huang Shi***, Zhai Qixiao*, Zhang Jiachao*. Probiotic consumption influences universal adaptive mutations in indigenous human and mouse gut microbiota, _Communications Biology_ 2021; 4(1): article no. 1198-article no. 1198 doi:10.1038/s42003-021-02724-8
 
-# Overview of Raman Facilities
+# Overview of single-cell Raman Facilities
 
 ## Flow-mode Raman-activated Cell Sorter, FlowRACS
 ![image](https://github.com/user-attachments/assets/8c4b8c03-dc9f-4958-af86-84ab2ee4a595)
