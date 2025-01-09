@@ -191,9 +191,10 @@ She majored in Dentistry during her undergraduate studies and researched microbi
 
 ## Access Log for Raman Facilities
 * On 2024/04/23, the Qingdao government delegation led by Wang Bo, Vice Mayor of Qingdao, visited Raman facilities.
-* On 2024/08/16, Prof. Tsoi James Kit Hon's group from the HKU Faculty of Dentistry utilized the RACS-Seq.
-* On 2024/08/23, Prof. Liu Fang’s team from the HKU Faculty of Medicine utilized the FlowRACS.
-* On 2024/09/04, Prof. Ye Zhou's group from the HKU Faculty of Dentistry utilized the RACS-Seq.
+* On 2024/08/16, Prof. Tsoi James Kit Hon's HKU Faculty of Dentistry group utilized the RACS-Seq.
+* On 2024/08/23, Prof. Liu Fang’s HKU Faculty of Medicine team utilized the FlowRACS.
+* On 2024/09/04, Prof. Ye Zhou's HKU Faculty of Dentistry group utilized the RACS-Seq.
 * On 2024/11/04, a government delegation led by Liu Luying, Minister of the Organization Department of Qingdao West Coast New Area, visited Raman facilities.
 * On 2024/11/23, Prof. Wang Kailiang’s group from HKBU utilized the FlowRACS.
-* On 2024/12/13, Prof. Ye Zhou's group from the HKU Faculty of Dentistry utilized the FlowRACS.
+* On 2024/12/13, Prof. Ye Zhou's HKU Faculty of Dentistry group utilized the FlowRACS.
+* On 2025/01/08, Prof. Tsoi James Kit Hon's HKU Faculty of Dentistry group utilized the FlowRACS.
