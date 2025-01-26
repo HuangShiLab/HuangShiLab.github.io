@@ -197,4 +197,4 @@ She majored in Dentistry during her undergraduate studies and researched microbi
 * On 2024/11/04, a government delegation led by Liu Luying, Minister of the Organization Department of Qingdao West Coast New Area, visited Raman facilities.
 * On 2024/11/23, Prof. Wang Kailiang’s group from HKBU utilized the FlowRACS.
 * On 2024/12/13, Prof. Ye Zhou's HKU Faculty of Dentistry group utilized the FlowRACS.
-* On 2025/01/08, Prof. Tsoi James Kit Hon's HKU Faculty of Dentistry group utilized the FlowRACS.
+* From 2025/01/08 to 2025/01/21, Prof. Tsoi James Kit Hon's HKU Faculty of Dentistry group utilized the FlowRACS.
