@@ -16,6 +16,8 @@ Room 2A10, Prince Philip Dental Hospital,
 
 **Email**: shihuang@hku.hk
 
+**Whatsapp**: ![Picture1](https://github.com/user-attachments/assets/0f3b4b96-d756-4e2a-b8e3-a281ffef201e)
+
 
 # Research Interests
 * Metagenomics method development
