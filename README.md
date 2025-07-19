@@ -151,7 +151,11 @@ She majored in Dentistry during her undergraduate studies and researched microbi
 
 * Jiang T, Zhang M, Hao S, **Huang S***, Zheng X*, Sun Z*. Revealing the role of the gut microbiota in enhancing targeted therapy efficacy for lung adenocarcinoma. Exp Hematol Oncol. 2024 Feb 9;13(1):15. doi: 10.1186/s40164-024-00478-7. PMID: 38336927; PMCID: PMC10854116.
 
+* Yang Fang#, Teng Fei#*, Zhang Yufeng#, Sun Yanfei, Xu Jian*, **Huang Shi***. Single-tooth resolved, whole-mouth prediction of early childhood caries via spatiotemporal variations of plaque microbiota, _Cell Host and Microbe_, 2025, doi: 10.1016/j.chom.2025.05.006.
+
 ## Probiotics and Human Microbiome
+* Jiang Shuaiming#, **Huang Shi#**, Zhang Zeng, Ma Wenyao, Han Zhe, Song Yuan, Huo Dongxue, Cui Weipeng, Zhang Jiachao. (2025). Gut microbiota drives structural variation of exogenous probiotics to enhance colonization. _Gut Microbes_, 17(1). doi:10.1080/19490976.2025.2503371
+  
 * **Huang Shi**, Jiang Shuaiming, Huo Dongxue, Allaband Celeste, Estaki Mehrbod, Cantu Victor, Belda-Ferre Pedro, Vázquez-Baeza Yoshiki, Zhu Qiyun, Ma Chenchen, Li Congfa, Zarrinpar Amir, Liu Yang Yu, Knight Rob, Zhang Jiachao. Candidate probiotic Lactiplantibacillus plantarum HNU082 rapidly and convergently evolves within human, mice, and zebrafish gut but differentially influences the resident microbiome, _Microbiome_ 2021; 9(1): article no. 151-article no. 151 doi:10.1186/s40168-021-01102-0
 
 * Zhang CC, Yu LL, Ma CC, Jiang SM, Zhang YF, Wang SH, Tian FW, Xue YZ, Zhao JX, Zhang H, Liu LM, Chen W, **Huang S***, Zhang JC*, Zhai QX*. A key genetic factor governing arabinan utilization in the gut microbiome alleviates constipation, _Cell Host & Microbe_ 2023; 31(12): 1989-2006 doi:10.1016/j.chom.2023.10.011
@@ -159,6 +163,7 @@ She majored in Dentistry during her undergraduate studies and researched microbi
 * Jiang Shuaiming#, Zhang Chengcheng#, Han Zhe, Ma Wenyao, Wang Shunhe, Huo Dongxue, Cui Weipeng, Zhai Qixiao*, **Huang Shi***, Zhang Jiachao*. Native microbiome dominates over host factors in shaping the probiotic genetic evolution in the gut, _npj Biofilms and Microbiomes_ 2023; 9(1) doi:10.1038/s41522-023-00447-8
   
 * Ma Chenchen#, Wasti Sanjeev#, **Huang Shi#**, Zhang Zeng, Mishra Rajeev, Jiang Shuaiming, You Zhengkai, Wu Yixuan, Chang Haibo, Wang Yuanyuan, Huo Dongxue, Li Congfa, Sun Zhihong, Sun Zheng*, Zhang Jiachao*. The gut microbiome stability is altered by probiotic ingestion and improved by the continuous supplementation of galactooligosaccharide, _Gut Microbes_ 2020; 12(1): article no. 1785252-article no. 1785252 doi:10.1080/19490976.2020.1785252
+
 * Ma Chenchen#, Zhang Chengcheng#, Chen Denghui#, Jiang Shuaiming, Shen Siyuan, Huo Dongxue, **Huang Shi***, Zhai Qixiao*, Zhang Jiachao*. Probiotic consumption influences universal adaptive mutations in indigenous human and mouse gut microbiota, _Communications Biology_ 2021; 4(1): article no. 1198-article no. 1198 doi:10.1038/s42003-021-02724-8
 
 # Overview of single-cell Raman Facilities
