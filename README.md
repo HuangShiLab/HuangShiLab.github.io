@@ -151,7 +151,7 @@ She majored in Dentistry during her undergraduate studies and researched microbi
 
 * Jiang T, Zhang M, Hao S, **Huang S***, Zheng X*, Sun Z*. Revealing the role of the gut microbiota in enhancing targeted therapy efficacy for lung adenocarcinoma. Exp Hematol Oncol. 2024 Feb 9;13(1):15. doi: 10.1186/s40164-024-00478-7. PMID: 38336927; PMCID: PMC10854116.
 
-* Yang Fang#, Teng Fei#*, Zhang Yufeng#, Sun Yanfei, Xu Jian*, **Huang Shi***. Single-tooth resolved, whole-mouth prediction of early childhood caries via spatiotemporal variations of plaque microbiota, _Cell Host and Microbe_, 2025, doi: 10.1016/j.chom.2025.05.006.
+* Yang Fang#, Teng Fei*#, Zhang Yufeng#, Sun Yanfei, Xu Jian*, **Huang Shi***. Single-tooth resolved, whole-mouth prediction of early childhood caries via spatiotemporal variations of plaque microbiota, _Cell Host and Microbe_, 2025, doi: 10.1016/j.chom.2025.05.006.
 
 ## Probiotics and Human Microbiome
 * Jiang Shuaiming#, **Huang Shi#**, Zhang Zeng, Ma Wenyao, Han Zhe, Song Yuan, Huo Dongxue, Cui Weipeng, Zhang Jiachao. (2025). Gut microbiota drives structural variation of exogenous probiotics to enhance colonization. _Gut Microbes_, 17(1). doi:10.1080/19490976.2025.2503371
