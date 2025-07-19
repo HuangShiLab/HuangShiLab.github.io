@@ -112,7 +112,7 @@ She majored in Dentistry during her undergraduate studies and researched microbi
 # Selective Publications
 
 ## Metagenomics Method Development
-* Sun Z#, **Huang S#,**, Zhu P, Lam T, Zhao H, Lv J, Zhang R, Zhou L, Niu Q, Wang X, Zhang M, Jing G, Bao Z, Liu J, Wang S*, Xu J*. Species-resolved sequencing of low-biomass or degraded microbiomes using 2bRAD-M, _Genome Biology_ 2022; 23: article no. 36-article no. 36 doi:10.1186/s13059-021-02576-9
+* Sun Z#, **Huang S#\***, Zhu P, Lam T, Zhao H, Lv J, Zhang R, Zhou L, Niu Q, Wang X, Zhang M, Jing G, Bao Z, Liu J, Wang S*, Xu J*. Species-resolved sequencing of low-biomass or degraded microbiomes using 2bRAD-M, _Genome Biology_ 2022; 23: article no. 36-article no. 36 doi:10.1186/s13059-021-02576-9
 
 * Zhu Q#, **Huang S#**, Gonzalez A, McGrath I, McDonald D, Haiminen N, Armstrong G, Vazquez-Baeza Y, Yu J, Kuczynski J, Sepich-Poore GD, Swafford AD, Das P, Shaffer JP, Lejzerowicz F, Belda-Ferre P, Havulinna AS, Meric G, Niiranen T, Lahti L, Salomaa V, Kim HC, Jain M, Inouye M, Gilbert JA, Knight R. Phylogeny-Aware Analysis of Metagenome Community Ecology Based on Matched Reference Genomes while Bypassing Taxonomy, _mSystems_ 2022; e0016722-e0016722 doi:10.1128/msystems.00167-22
 
@@ -151,7 +151,7 @@ She majored in Dentistry during her undergraduate studies and researched microbi
 
 * Jiang T, Zhang M, Hao S, **Huang S***, Zheng X*, Sun Z*. Revealing the role of the gut microbiota in enhancing targeted therapy efficacy for lung adenocarcinoma. Exp Hematol Oncol. 2024 Feb 9;13(1):15. doi: 10.1186/s40164-024-00478-7. PMID: 38336927; PMCID: PMC10854116.
 
-* Yang Fang#, Teng Fei*#, Zhang Yufeng#, Sun Yanfei, Xu Jian*, **Huang Shi***. Single-tooth resolved, whole-mouth prediction of early childhood caries via spatiotemporal variations of plaque microbiota, _Cell Host and Microbe_, 2025, doi: 10.1016/j.chom.2025.05.006.
+* Yang Fang#, Teng Fei#\*, Zhang Yufeng#, Sun Yanfei, Xu Jian*, **Huang Shi***. Single-tooth resolved, whole-mouth prediction of early childhood caries via spatiotemporal variations of plaque microbiota, _Cell Host and Microbe_, 2025, doi: 10.1016/j.chom.2025.05.006.
 
 ## Probiotics and Human Microbiome
 * Jiang Shuaiming#, **Huang Shi#**, Zhang Zeng, Ma Wenyao, Han Zhe, Song Yuan, Huo Dongxue, Cui Weipeng, Zhang Jiachao. (2025). Gut microbiota drives structural variation of exogenous probiotics to enhance colonization. _Gut Microbes_, 17(1). doi:10.1080/19490976.2025.2503371
