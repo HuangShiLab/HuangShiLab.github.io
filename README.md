@@ -74,6 +74,7 @@ She majored in Dentistry during her undergraduate studies and researched microbi
 
 # Awards 
 
+* **Finalist for the 2025 IADR Joseph Lister Award for New Investigators Competition**, 2025 IADR, Barcelona, Spain, **Dr. Shi Huang**
 * **Outstanding Poster Award**, 2024 Annual Academic Meeting of the Chinese Association of Microbial Ecology, 25-28 Nov 2024, Qingdao, China. Title: Strain2bFunc: strain-resolved profiling and functional prediction of microbiota in low-microbial-biomass samples using type IIB restriction sites. Presenter: **Yufeng Zhang**
 * **Best Poster Award**, 2nd Frontiers Forum on Next-Generation Biomaterials in Dental Medicine, 2 June 2024, Hong Kong, China. Title: Strain-resolved taxonomic profiling and functional prediction of human microbiota using Strain2bFunc. Presenter: **Yufeng Zhang**  
 * **HKU TEC MedTech Hackathon 2024 Finalist Award**, HKU TEC MedTech Hackathon 2024, Hong Kong, China, Project title: Effective mining of Autologous Probiotics (ProbioMine Biotech.)  
