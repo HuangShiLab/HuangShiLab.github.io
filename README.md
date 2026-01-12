@@ -69,6 +69,18 @@ He received the B.S. degree in Aerospace Science and Technology from Xidian Univ
 
 She majored in Dentistry during her undergraduate studies and researched microbiology during her master's program. Currently, her research focuses on the antimicrobial resistance mechanisms of bacterial microbiota in saliva. In her spare time, she enjoys sports, especially squash and Pilates.
 
+## Jing-Yi Zhang, PhD Student
+
+<img width="100" alt="image" src="https://github.com/user-attachments/assets/8e252fb9-26f6-421c-aaf4-f1840a8a1997">
+
+She completed both her undergraduate and master's studies in ecology at Sun Yat-sen University. Building on this foundation, she is now dedicated to exploring Genome-scale Metabolic Models. In her spare time, she enjoys hiking and watching movies.
+
+## Zhengting Wang, MPhil Student
+
+<img width="100" alt="image" src="https://github.com/user-attachments/assets/08789335-d029-4931-ad25-dfde7fc9221c">
+
+Zhengting received his B.Eng. degree in Food Science and Engineering from Northwest A&F University. His field of study is probiotics and the microbiome, with a particular focus on applying multi-omics approaches to elucidate the relationship between probiotics and the gut microbiota. Outside the lab, he enjoys solitude and fitness.
+
 # Past Members
 * Shuaiming Jiang (Hainan University, China)
 
