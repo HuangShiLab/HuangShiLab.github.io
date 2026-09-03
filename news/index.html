@@ -124,6 +124,7 @@
     .tag-conference { background: rgba(45, 212, 168, 0.12); color: var(--accent-teal); }
     .tag-award { background: rgba(251, 191, 36, 0.12); color: #FBBF24; }
     .tag-publication { background: rgba(34, 211, 238, 0.12); color: #22D3EE; }
+    .tag-grant { background: rgba(167, 139, 250, 0.12); color: #A78BFA; }
     .tag-others { background: rgba(148, 163, 184, 0.12); color: var(--text-secondary); }
     .news-title {
       font-family: 'Cormorant Garamond', serif;
@@ -188,7 +189,9 @@
     <div class="filters" id="filters">
       <button class="filter-btn active" data-filter="all">All</button>
       <button class="filter-btn" data-filter="conference">Conference</button>
+      <button class="filter-btn" data-filter="publication">Publication</button>
       <button class="filter-btn" data-filter="award">Award</button>
+      <button class="filter-btn" data-filter="grant">Grant</button>
       <button class="filter-btn" data-filter="others">Others</button>
     </div>
     
@@ -205,12 +208,44 @@
     // News data (students only need to edit this array)
     const newsData = [
       {
+        id: "rgc-grf-2026",
+        date: "2026-07-04",
+        category: "grant",
+        title: "Hong Kong RGC's GRF Awarded",
+        detail: "AI-Powered De Novo Discovery and Functional Validation of Anti-Gingivitis Metabolites",
+        content: "Project Period: 01/01/2027 – 31/12/2020\nPI: Dr. Shi HUANG"
+      },
+      {
         id: "isme20-2026",
         date: "Aug 2026",
         category: "conference",
         title: "ISME20 Presentation",
         detail: "Lab members presented at the 20th International Symposium on Microbial Ecology in Auckland, New Zealand",
         content: "The 20th International Symposium on Microbial Ecology (ISME20) was held in Auckland, New Zealand from August 16–21, 2026. ISME is the premier international conference in the field of microbial ecology.\n\nOur lab members actively participated in this symposium and presented their research. The conference provided an excellent platform for exchanging ideas with leading scientists in microbial ecology.\n\nMore information: https://isme-microbes.org/public/conference/isme-20/detail/"
+      },
+      {
+        id: "microbiome-capsaicin-2026",
+        date: "2026-05-01",
+        category: "publication",
+        title: "New Paper in Microbiome",
+        detail: "Capsaicin ameliorates glycemic levels via gut microbiota-derived 5-aminolevulinic acid in mice",
+        content: "Our latest study has been published in Microbiome. This work reveals a novel mechanism by which dietary capsaicin interacts with gut microbiota to improve glycemic control."
+      },
+      {
+        id: "editorial-extraintestinal-2026",
+        date: "2026-04-10",
+        category: "publication",
+        title: "Editorial on Extra-intestinal Microbiome",
+        detail: "Perspectives in extra-intestinal microbiome 2025",
+        content: "Dr. Huang Shi and Dr. Xu Xin published an Editorial in Frontiers in Cellular and Infection Microbiology, discussing emerging research directions in extra-intestinal microbiome studies."
+      },
+      {
+        id: "collab-engineering-2025",
+        date: "2025-12-15",
+        category: "others",
+        title: "Collaboration with Engineering Faculty Established",
+        detail: "New interdisciplinary collaboration with the Faculty of Engineering at HKU",
+        content: "Our lab established a new interdisciplinary collaboration with the Faculty of Engineering at HKU to develop AI-driven microbiome analysis platforms combining deep learning and single-cell Raman spectroscopy."
       },
       {
         id: "iadr-2025",
