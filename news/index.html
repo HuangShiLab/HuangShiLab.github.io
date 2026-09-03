@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>News - HuangShiLab</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Cormorant+Garamond:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-primary: #060B14;
+      --bg-secondary: #0A1525;
+      --bg-tertiary: #0E1D33;
+      --accent-teal: #2DD4A8;
+      --text-primary: #F0F4F8;
+      --text-secondary: #94A3B8;
+      --text-muted: #5E6E82;
+      --border: rgba(56, 189, 166, 0.12);
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: 'Inter', system-ui, sans-serif;
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+    }
+    a { color: inherit; text-decoration: none; }
+    
+    /* Header */
+    header {
+      position: sticky; top: 0; z-index: 50;
+      background: rgba(6, 11, 20, 0.88);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+    }
+    .header-inner {
+      max-width: 1200px; margin: 0 auto;
+      padding: 1rem 1.5rem;
+      display: flex; align-items: center; justify-content: space-between;
+    }
+    .logo {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1.5rem; font-weight: 600;
+      color: var(--accent-teal);
+      letter-spacing: -0.02em;
+    }
+    .logo span { color: var(--text-primary); }
+    .nav-back {
+      display: inline-flex; align-items: center; gap: 0.5rem;
+      padding: 0.5rem 1rem; border-radius: 0.5rem;
+      border: 1px solid var(--border);
+      color: var(--text-secondary); font-size: 0.875rem;
+      transition: all 0.2s;
+    }
+    .nav-back:hover {
+      border-color: var(--accent-teal);
+      color: var(--accent-teal);
+    }
+    
+    /* Main */
+    main { max-width: 900px; margin: 0 auto; padding: 3rem 1.5rem; }
+    
+    .page-title {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: clamp(2rem, 4vw, 3rem);
+      font-weight: 500;
+      margin-bottom: 0.5rem;
+      letter-spacing: -0.02em;
+    }
+    .page-subtitle {
+      color: var(--text-secondary);
+      font-size: 1rem;
+      margin-bottom: 2.5rem;
+    }
+    
+    /* Filters */
+    .filters {
+      display: flex; flex-wrap: wrap; gap: 0.5rem;
+      margin-bottom: 2rem;
+    }
+    .filter-btn {
+      padding: 0.4rem 1rem; border-radius: 999px;
+      border: 1px solid var(--border);
+      background: transparent; color: var(--text-muted);
+      font-size: 0.8rem; cursor: pointer;
+      transition: all 0.2s; font-family: inherit;
+    }
+    .filter-btn:hover, .filter-btn.active {
+      border-color: var(--accent-teal);
+      color: var(--accent-teal);
+      background: rgba(45, 212, 168, 0.08);
+    }
+    
+    /* News List */
+    .news-list { display: flex; flex-direction: column; gap: 1rem; }
+    .news-item {
+      background: var(--bg-secondary);
+      border: 1px solid var(--border);
+      border-radius: 0.75rem;
+      padding: 1.5rem;
+      transition: all 0.3s;
+    }
+    .news-item:hover {
+      border-color: rgba(56, 189, 166, 0.3);
+      transform: translateY(-2px);
+    }
+    .news-header {
+      display: flex; align-items: center; gap: 0.75rem;
+      margin-bottom: 0.75rem;
+      flex-wrap: wrap;
+    }
+    .news-date {
+      font-size: 0.75rem; font-weight: 500;
+      color: var(--accent-teal);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    .news-tag {
+      font-size: 0.7rem; font-weight: 500;
+      padding: 0.15rem 0.6rem; border-radius: 999px;
+      text-transform: capitalize;
+    }
+    .tag-conference { background: rgba(45, 212, 168, 0.12); color: var(--accent-teal); }
+    .tag-award { background: rgba(251, 191, 36, 0.12); color: #FBBF24; }
+    .tag-publication { background: rgba(34, 211, 238, 0.12); color: #22D3EE; }
+    .tag-others { background: rgba(148, 163, 184, 0.12); color: var(--text-secondary); }
+    .news-title {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1.35rem; font-weight: 600;
+      margin-bottom: 0.5rem;
+      line-height: 1.3;
+    }
+    .news-detail {
+      color: var(--text-secondary);
+      font-size: 0.9rem;
+      line-height: 1.6;
+    }
+    .news-content {
+      margin-top: 1rem;
+      padding-top: 1rem;
+      border-top: 1px solid var(--border);
+      color: var(--text-secondary);
+      font-size: 0.9rem;
+      line-height: 1.7;
+      white-space: pre-wrap;
+    }
+    .news-content a {
+      color: var(--accent-teal);
+      text-decoration: underline;
+      text-underline-offset: 2px;
+    }
+    .news-content a:hover { opacity: 0.8; }
+    
+    /* Empty state */
+    .empty {
+      text-align: center; padding: 4rem 2rem;
+      color: var(--text-muted);
+    }
+    
+    /* Footer */
+    footer {
+      text-align: center; padding: 2rem;
+      color: var(--text-muted); font-size: 0.8rem;
+      border-top: 1px solid var(--border);
+    }
+    
+    /* Responsive */
+    @media (max-width: 640px) {
+      .page-title { font-size: 1.75rem; }
+      .news-item { padding: 1rem; }
+      .news-title { font-size: 1.15rem; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <a href="/" class="logo">Huang<span>Shi</span>Lab</a>
+      <a href="/" class="nav-back">← Back to Home</a>
+    </div>
+  </header>
+
+  <main>
+    <h1 class="page-title">Lab News</h1>
+    <p class="page-subtitle">Latest updates from our research group</p>
+    
+    <div class="filters" id="filters">
+      <button class="filter-btn active" data-filter="all">All</button>
+      <button class="filter-btn" data-filter="conference">Conference</button>
+      <button class="filter-btn" data-filter="publication">Publication</button>
+      <button class="filter-btn" data-filter="award">Award</button>
+      <button class="filter-btn" data-filter="others">Others</button>
+    </div>
+    
+    <div class="news-list" id="news-list">
+      <div class="empty">Loading news...</div>
+    </div>
+  </main>
+
+  <footer>
+    © HuangShiLab · Faculty of Dentistry · The University of Hong Kong
+  </footer>
+
+  <script>
+    // News data (students only need to edit this array)
+    const newsData = [
+      {
+        id: "isme20-2026",
+        date: "2026-08-21",
+        category: "conference",
+        title: "Lab members presented at ISME20 in Auckland, New Zealand",
+        detail: "Our lab members attended the 20th International Symposium on Microbial Ecology (ISME20) held in Auckland, New Zealand, and presented their latest research on microbiome analysis.",
+        content: "The 20th International Symposium on Microbial Ecology (ISME20) was held in Auckland, New Zealand from August 16\u201321, 2026. ISME is the premier international conference in the field of microbial ecology.\n\nOur lab members actively participated in this symposium and presented their research. The conference provided an excellent platform for exchanging ideas with leading scientists in microbial ecology.\n\nMore information: https://isme-microbes.org/public/conference/isme-20/detail/"
+      },
+      {
+        id: "iadr-2025",
+        date: "2025-01-15",
+        category: "award",
+        title: "Joseph Lister Award Finalist",
+        detail: "Dr. Shi Huang named finalist at IADR 2025, Barcelona"
+      },
+      {
+        id: "came-2024",
+        date: "2024-11-20",
+        category: "award",
+        title: "Outstanding Poster Award",
+        detail: "Yufeng Zhang wins at Chinese Association of Microbial Ecology, Qingdao"
+      },
+      {
+        id: "hackathon-2024",
+        date: "2024-06-15",
+        category: "award",
+        title: "HKU TEC MedTech Hackathon Finalist",
+        detail: "ProbioMine Biotech project recognized"
+      },
+      {
+        id: "biomaterials-2024",
+        date: "2024-06-02",
+        category: "award",
+        title: "Best Poster Award",
+        detail: "2nd Frontiers Forum on Next-Generation Biomaterials in Dental Medicine, HK"
+      }
+    ];
+
+    const listEl = document.getElementById('news-list');
+    const filterBtns = document.querySelectorAll('.filter-btn');
+    let currentFilter = 'all';
+
+    function renderNews(filter) {
+      const filtered = filter === 'all' 
+        ? newsData 
+        : newsData.filter(n => n.category === filter);
+      
+      if (filtered.length === 0) {
+        listEl.innerHTML = '<div class="empty">No news in this category.</div>';
+        return;
+      }
+
+      listEl.innerHTML = filtered.map(item => `
+        <article class="news-item" data-category="${item.category}">
+          <div class="news-header">
+            <span class="news-date">${formatDate(item.date)}</span>
+            <span class="news-tag tag-${item.category}">${item.category}</span>
+          </div>
+          <h2 class="news-title">${escapeHtml(item.title)}</h2>
+          <p class="news-detail">${escapeHtml(item.detail)}</p>
+          ${item.content ? `<div class="news-content">${linkify(escapeHtml(item.content))}</div>` : ''}
+        </article>
+      `).join('');
+    }
+
+    function formatDate(dateStr) {
+      const d = new Date(dateStr);
+      return d.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+    }
+
+    function escapeHtml(text) {
+      const div = document.createElement('div');
+      div.textContent = text;
+      return div.innerHTML;
+    }
+
+    function linkify(text) {
+      return text.replace(/(https?:\/\/[^\s]+)/g, '<a href="$1" target="_blank" rel="noopener">$1</a>');
+    }
+
+    filterBtns.forEach(btn => {
+      btn.addEventListener('click', () => {
+        filterBtns.forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        currentFilter = btn.dataset.filter;
+        renderNews(currentFilter);
+      });
+    });
+
+    renderNews('all');
+  </script>
+</body>
+</html>
