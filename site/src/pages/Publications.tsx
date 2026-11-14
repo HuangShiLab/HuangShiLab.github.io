@@ -250,7 +250,7 @@ export default function Publications() {
             className="mx-auto mt-6 text-[1.125rem] leading-[1.7]"
             style={{ color: 'var(--color-text-secondary)', maxWidth: '700px' }}
           >
-            Over 40 research papers in peer-reviewed journals, including 20 first- or corresponding-authored papers in Nature Methods, Cell Host Microbe, Microbiome, Genome Biology, ISMEJ, and more.
+            Over {statsJson.papers_count} research papers in peer-reviewed journals, including {statsJson.first_author_count} first- or corresponding-authored papers in Nature Methods, Cell Host Microbe, Microbiome, Genome Biology, ISMEJ, and more.
           </motion.p>
 
           <motion.div
@@ -260,8 +260,8 @@ export default function Publications() {
             className="mt-8 flex flex-wrap items-center justify-center gap-8 lg:gap-12"
           >
             {[
-              { num: '40+', label: 'Total Papers' },
-              { num: '20', label: 'First/Corresponding' },
+              { num: String(statsJson.papers_count), label: 'Total Papers' },
+              { num: String(statsJson.first_author_count), label: 'First/Corresponding' },
               { num: String(statsJson.h_index_all), label: 'H-Index' },
             ].map((stat) => (
               <div key={stat.label} className="text-center">

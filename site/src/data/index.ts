@@ -2,13 +2,13 @@
 // Last updated: 2026-07-03
 
 export const statsJson = {
-  citations_all: 7733,
-  h_index_all: 41,
-  i10_index_all: 85,
-  papers_count: 30,
-  first_author_count: 20,
+  citations_all: 8433,
+  h_index_all: 44,
+  i10_index_all: 92,
+  papers_count: 149,
+  first_author_count: 31,
   patent_count: 7,
-  updated_at: "2026-07-03T00:00:00",
+  updated_at: "2026-11-14T00:00:00",
 };
 
 export type Publication = {

@@ -69,20 +69,35 @@ def fetch_serpapi() -> dict:
         print("ERROR: SERPAPI_KEY environment variable not set")
         return {}
 
-    url = (
-        "https://serpapi.com/search.json"
-        f"?engine=google_scholar_author"
-        f"&author_id={AUTHOR_ID}"
-        f"&api_key={SERPAPI_KEY}"
-        f"&num=100"
-    )
     print(f"Fetching Google Scholar data for author {AUTHOR_ID}...")
-    data = fetch_json(url)
-    if "error" in data:
-        print(f"SerpAPI error: {data['error']}")
-        return {}
-    print(f"  -> OK (raw articles: {len(data.get('articles', []))})")
-    return data
+    all_articles: list = []
+    merged: dict = {}
+    start = 0
+    while True:
+        url = (
+            "https://serpapi.com/search.json"
+            f"?engine=google_scholar_author"
+            f"&author_id={AUTHOR_ID}"
+            f"&api_key={SERPAPI_KEY}"
+            f"&num=100&start={start}"
+        )
+        data = fetch_json(url)
+        if "error" in data:
+            print(f"SerpAPI error: {data['error']}")
+            return {} if not merged else merged
+        articles = data.get("articles", [])
+        all_articles.extend(articles)
+        if not merged:
+            merged = data  # keep author_info / cited_by / h_index from first page
+        print(f"  -> page start={start}: {len(articles)} articles")
+        if len(articles) < 100:
+            break
+        start += 100
+        time.sleep(2)  # be gentle with the API
+    merged["articles"] = all_articles
+    merged["total_articles"] = len(all_articles)
+    print(f"  -> total raw articles: {len(all_articles)}")
+    return merged
 
 
 # ── fetch DOI from CrossRef ──────────────────────────────────────────
@@ -132,6 +147,7 @@ def process():
         "citations_all": cited_by.get("all_time", 0) or author_info.get("cited_by", 0),
         "h_index_all": 0,
         "i10_index_all": 0,
+        "papers_count": raw.get("total_articles", len(raw.get("articles", []))),
         "updated_at": datetime.now().isoformat(),
     }
 
@@ -232,7 +248,7 @@ def process():
     # 7. Regenerate src/data/index.ts (the file the site actually imports;
     #    Vite tree-shakes JSON imports, so the site reads TS constants)
     ts_path = os.path.join(DATA_DIR, "index.ts")
-    stats_extra = {"papers_count": len(publications), "first_author_count": 20, "patent_count": 7}
+    stats_extra = {"papers_count": stats.get("papers_count", len(publications)), "first_author_count": 31, "patent_count": 7}
 
     def ts_str(s: Any) -> str:
         return json.dumps(str(s or ""), ensure_ascii=False)
