@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "title": "Species-resolved sequencing of low-biomass or degraded microbiomes using 2bRAD-M",
+    "authors": "Sun Z#, Huang S#*, Zhu P, Lam T, Zhao H, Lv J, Zhang R, Zhou L, Niu Q, Wang X, Zhang M, Jing G, Bao Z, Liu J, Wang S*, Xu J*",
+    "journal": "Genome Biology",
+    "year": 2022,
+    "category": "Metagenomics Methods",
+    "doi": "10.1186/s13059-021-02576-9"
+  },
+  {
+    "id": 2,
+    "title": "Phylogeny-Aware Analysis of Metagenome Community Ecology Based on Matched Reference Genomes while Bypassing Taxonomy",
+    "authors": "Zhu Q#, Huang S#, Gonzalez A, McGrath I, McDonald D, Haiminen N, Armstrong G, Vazquez-Baeza Y, Yu J, Kuczynski J, Sepich-Poore GD, Swafford AD, Das P, Shaffer JP, Lejzerowicz F, Belda-Ferre P, Havulinna AS, Meric G, Niiranen T, Lahti L, Salomaa V, Kim HC, Jain M, Inouye M, Gilbert JA, Knight R",
+    "journal": "mSystems",
+    "year": 2022,
+    "category": "Metagenomics Methods",
+    "doi": "10.1128/msystems.00167-22"
+  },
+  {
+    "id": 3,
+    "title": "Challenges in benchmarking metagenomic profilers",
+    "authors": "Sun Zheng#, Huang Shi#, Zhang Meng, Zhu Qiyun, Haiminen Niina, Carrieri Anna Paola, Vazquez-Baeza Yoshiki, Parida Laxmi, Kim Ho Cheol, Knight Rob, Liu Yang Yu",
+    "journal": "Nature Methods",
+    "year": 2021,
+    "category": "Metagenomics Methods",
+    "doi": "10.1038/s41592-021-01141-3"
+  },
+  {
+    "id": 4,
+    "title": "Longitudinal Multi-omics and Microbiome Meta-analysis Identify an Asymptomatic Gingival State That Links Gingivitis, Periodontitis, and Aging",
+    "authors": "Huang S, He T, Yue F, Xu X, Wang L, Zhu P, Teng F, Sun Z, Liu X, Jing G, Su X, Jin L, Liu J, Xu J*",
+    "journal": "mBio",
+    "year": 2021,
+    "category": "Microbiome & Disease",
+    "doi": "10.1128/mBio.03281-20"
+  },
+  {
+    "id": 5,
+    "title": "Human skin, oral, and gut microbiomes predict chronological age",
+    "authors": "Huang Shi, Haiminen Niina, Carrieri Anna Paola, Hu Rebecca, Jiang Lingjing, Parida Laxmi, Russell Baylee, Allaband Celeste, Zarrinpar Amir, Vazquez-Baeza Yoshiki, Belda-Ferre Pedro, Zhou Hongwei, Kim Ho Cheol, Swafford Austin D., Knight Rob, Xu Zhenjiang Zech#",
+    "journal": "mSystems",
+    "year": 2020,
+    "category": "Microbiome & Disease",
+    "doi": "10.1128/mSystems.00630-19"
+  },
+  {
+    "id": 6,
+    "title": "Predictive modeling of gingivitis severity and susceptibility via oral microbiota",
+    "authors": "Huang Shi, Li Rui, Zeng Xiaowei, He Tao, Zhao Helen, Chang Alice, Bo Cunpei, Chen Jie, Yang Fang, Knight Rob, Liu Jiquan, Davis Catherine, Xu Jian*",
+    "journal": "The ISME Journal",
+    "year": 2014,
+    "category": "Microbiome & Disease",
+    "doi": "10.1038/ismej.2014.32"
+  },
+  {
+    "id": 7,
+    "title": "Preliminary characterization of the oral microbiota of Chinese adults with and without gingivitis",
+    "authors": "Huang Shi, Yang Fang, Zeng Xiaowei, Chen Jie, Li Rui, Wen Ting, Li Chun, Wei Wei, Liu Jiquan, Chen Lan, Davis Catherine, Xu Jian",
+    "journal": "BMC Oral Health",
+    "year": 2011,
+    "category": "Microbiome & Disease",
+    "doi": "10.1186/1472-6831-11-33"
+  },
+  {
+    "id": 8,
+    "title": "Prediction of Early Childhood Caries via Spatial-Temporal Variations of Oral Microbiota",
+    "authors": "Teng Fei#, Yang Fang#, Huang Shi#, Bo Cunpei, Xu Zhenjiang Zech, Amir Amnon, Knight Rob, Ling Junqi, Xu Jian",
+    "journal": "Cell Host and Microbe",
+    "year": 2015,
+    "category": "Microbiome & Disease",
+    "doi": "10.1016/j.chom.2015.08.005"
+  },
+  {
+    "id": 9,
+    "title": "Microbiota-based Signature of Gingivitis Treatments: A Randomized Study",
+    "authors": "Huang Shi, Li Zhen, He Tao, Bo Cunpei, Chang Jinlan, Li Lin, He Yanyan, Liu Jiquan, Charbonneau Duane, Li Rui, Xu Jian*",
+    "journal": "Scientific Reports",
+    "year": 2016,
+    "category": "Microbiome & Disease",
+    "doi": "10.1038/srep24705"
+  },
+  {
+    "id": 10,
+    "title": "Cross-cohort single-nucleotide-variant profiling of gut microbiota suggests a novel gut-health assessment approach",
+    "authors": "Ma Chenchen, Zhang Yufeng, Jiang Shuaiming, Teng Fei, Huang Shi*, Zhang Jiachao*",
+    "journal": "mSystems",
+    "year": 2023,
+    "category": "Microbiome & Disease",
+    "doi": "10.1128/msystems.00828-23"
+  },
+  {
+    "id": 11,
+    "title": "Establishing a novel inflammatory bowel disease prediction model based on gene markers identified from single nucleotide variants of the intestinal microbiota",
+    "authors": "Jiang S, Chen D, Ma C, Liu H, Huang S*, Zhang J*",
+    "journal": "iMeta",
+    "year": 2022,
+    "category": "Microbiome & Disease",
+    "doi": "10.1002/imt2.40"
+  },
+  {
+    "id": 12,
+    "title": "Compositional and genetic alterations in Graves' disease gut microbiome reveal specific diagnostic biomarkers",
+    "authors": "Qiyun Zhu#, Qiangchuan Hou#, Shi Huang#, Qianying Ou, Dongxue Huo, Yoshiki Vazquez-Baeza, Chaoping Cen, Victor Cantu, Mehrbod Estaki, Haibo Chang, Pedro Belda-Ferre, Ho-Cheol Kim, Kaining Chen, Rob Knight*, Jiachao Zhang*",
+    "journal": "The ISME Journal",
+    "year": 2021,
+    "category": "Microbiome & Disease",
+    "doi": "10.1038/s41396-021-01016-7"
+  },
+  {
+    "id": 13,
+    "title": "Exposure to soil environments during earlier life stages is distinguishable in the gut microbiome of adult mice",
+    "authors": "Liu Wenjun#, Sun Zheng#, Ma Chen, Zhang Jiachao, Ma Chen Chen, Zhao Yinqi, Wei Hong, Huang Shi#, Zhang Heping#",
+    "journal": "Gut Microbes",
+    "year": 2021,
+    "category": "Microbiome & Disease",
+    "doi": "10.1080/19490976.2020.1830699"
+  },
+  {
+    "id": 14,
+    "title": "A microbiome-based index for assessing skin health and treatment effects for atopic dermatitis in children",
+    "authors": "Sun Zheng#, Huang Shi#, Zhu Pengfei, Yue Feng, Zhao Helen, Yang Ming, Niu Yueqing, Jing Gongchao, Su Xiaoquan, Li Huiying, Callewaert Chris, Knight Rob, Liu Jiquan, Smith Ed, Wei Karl, Xu Jian",
+    "journal": "mSystems",
+    "year": 2019,
+    "category": "Microbiome & Disease",
+    "doi": "10.1128/mSystems.00293-19"
+  },
+  {
+    "id": 15,
+    "title": "Age-And sex-dependent patterns of gut microbial diversity in human adults",
+    "authors": "de la Cuesta-Zuluaga Jacobo, Kelley Scott T., Chen Yingfeng, Escobar Juan S., Mueller Noel T., Ley Ruth E., McDonald Daniel, Huang Shi, Swafford Austin D., Knight Rob, Thackray Varykina G.",
+    "journal": "mSystems",
+    "year": 2019,
+    "category": "Microbiome & Disease",
+    "doi": "10.1128/mSystems.00261-19"
+  },
+  {
+    "id": 16,
+    "title": "The Enhanced Pharmacological Effects of Modified Traditional Chinese Medicine in Attenuation of Atherosclerosis Is Driven by Modulation of Gut Microbiota",
+    "authors": "Ji Wenyan#, Jiang Ting#, Sun Zheng#, Teng Fei, Ma Chenchen, Huang Shi*, Yan Suhua*",
+    "journal": "Frontiers in Pharmacology",
+    "year": 2020,
+    "category": "Microbiome & Disease",
+    "doi": "10.3389/fphar.2020.546589"
+  },
+  {
+    "id": 17,
+    "title": "Geographic Variation Did Not Affect the Predictive Power of Salivary Microbiota for Caries in Children With Mixed Dentition",
+    "authors": "Li Shanshan#, Huang Shi#, Guo Yi, Zhang Ying, Zhang Lijuan, Li Fan, Tan Kaixuan, Lu Jie, Chen Zhenggang, Guo Qingyuan, Tang Yongping, Teng Fei*, Yang Fang*",
+    "journal": "Frontiers in Cellular and Infection Microbiology",
+    "year": 2021,
+    "category": "Microbiome & Disease",
+    "doi": "10.3389/fcimb.2021.680288"
+  },
+  {
+    "id": 18,
+    "title": "The predictive power of saliva electrolytes exceeds that of saliva microbiomes in diagnosing early childhood caries",
+    "authors": "Zhang Ying#, Huang Shi#, Jia Songbo, Sun Zheng, Li Shanshan, Li Fan, Zhang Lijuan, Lu Jie, Tan Kaixuan, Teng Fei*, Yang Fang*",
+    "journal": "Journal of Oral Microbiology",
+    "year": 2021,
+    "category": "Microbiome & Disease",
+    "doi": "10.1080/20002297.2021.1921486"
+  },
+  {
+    "id": 19,
+    "title": "Revealing the role of the gut microbiota in enhancing targeted therapy efficacy for lung adenocarcinoma",
+    "authors": "Jiang T, Zhang M, Hao S, Huang S*, Zheng X*, Sun Z*",
+    "journal": "Experimental Hematology & Oncology",
+    "year": 2024,
+    "category": "Microbiome & Disease",
+    "doi": "10.1186/s40164-024-00478-7"
+  },
+  {
+    "id": 20,
+    "title": "Single-tooth resolved, whole-mouth prediction of early childhood caries via spatiotemporal variations of plaque microbiota",
+    "authors": "Yang Fang#, Teng Fei#*, Zhang Yufeng#, Sun Yanfei, Xu Jian*, Huang Shi*",
+    "journal": "Cell Host and Microbe",
+    "year": 2025,
+    "category": "Microbiome & Disease",
+    "doi": "10.1016/j.chom.2025.05.006"
+  },
+  {
+    "id": 21,
+    "title": "Gut microbiota drives structural variation of exogenous probiotics to enhance colonization",
+    "authors": "Jiang Shuaiming#, Huang Shi#, Zhang Zeng, Ma Wenyao, Han Zhe, Song Yuan, Huo Dongxue, Cui Weipeng, Zhang Jiachao",
+    "journal": "Gut Microbes",
+    "year": 2025,
+    "category": "Probiotics",
+    "doi": "10.1080/19490976.2025.2503371"
+  },
+  {
+    "id": 22,
+    "title": "Candidate probiotic Lactiplantibacillus plantarum HNU082 rapidly and convergently evolves within human, mice, and zebrafish gut but differentially influences the resident microbiome",
+    "authors": "Huang Shi, Jiang Shuaiming, Huo Dongxue, Allaband Celeste, Estaki Mehrbod, Cantu Victor, Belda-Ferre Pedro, Vazquez-Baeza Yoshiki, Zhu Qiyun, Ma Chenchen, Li Congfa, Zarrinpar Amir, Liu Yang Yu, Knight Rob, Zhang Jiachao",
+    "journal": "Microbiome",
+    "year": 2021,
+    "category": "Probiotics",
+    "doi": "10.1186/s40168-021-01102-0"
+  },
+  {
+    "id": 23,
+    "title": "A key genetic factor governing arabinan utilization in the gut microbiome alleviates constipation",
+    "authors": "Zhang CC, Yu LL, Ma CC, Jiang SM, Zhang YF, Wang SH, Tian FW, Xue YZ, Zhao JX, Zhang H, Liu LM, Chen W, Huang S*, Zhang JC*, Zhai QX*",
+    "journal": "Cell Host & Microbe",
+    "year": 2023,
+    "category": "Probiotics",
+    "doi": "10.1016/j.chom.2023.10.011"
+  },
+  {
+    "id": 24,
+    "title": "Native microbiome dominates over host factors in shaping the probiotic genetic evolution in the gut",
+    "authors": "Jiang Shuaiming#, Zhang Chengcheng#, Han Zhe, Ma Wenyao, Wang Shunhe, Huo Dongxue, Cui Weipeng, Zhai Qixiao*, Huang Shi*, Zhang Jiachao*",
+    "journal": "npj Biofilms and Microbiomes",
+    "year": 2023,
+    "category": "Probiotics",
+    "doi": "10.1038/s41522-023-00447-8"
+  },
+  {
+    "id": 25,
+    "title": "The gut microbiome stability is altered by probiotic ingestion and improved by the continuous supplementation of galactooligosaccharide",
+    "authors": "Ma Chenchen#, Wasti Sanjeev#, Huang Shi#, Zhang Zeng, Mishra Rajeev, Jiang Shuaiming, You Zhengkai, Wu Yixuan, Chang Haibo, Wang Yuanyuan, Huo Dongxue, Li Congfa, Sun Zhihong, Sun Zheng*, Zhang Jiachao*",
+    "journal": "Gut Microbes",
+    "year": 2020,
+    "category": "Probiotics",
+    "doi": "10.1080/19490976.2020.1785252"
+  },
+  {
+    "id": 26,
+    "title": "Probiotic consumption influences universal adaptive mutations in indigenous human and mouse gut microbiota",
+    "authors": "Ma Chenchen#, Zhang Chengcheng#, Chen Denghui#, Jiang Shuaiming, Shen Siyuan, Huo Dongxue, Huang Shi*, Zhai Qixiao*, Zhang Jiachao*",
+    "journal": "Communications Biology",
+    "year": 2021,
+    "category": "Probiotics",
+    "doi": "10.1038/s42003-021-02724-8"
+  },
+  {
+    "id": 27,
+    "title": "Capsaicin ameliorates glycemic levels via gut microbiota-derived 5-aminolevulinic acid in mice",
+    "authors": "Fang Q, Huang S*, Zhang C, Li M, Ye Z, Guo H, Xiao M, Wang S, Yu L, Zhang H, Zhao J, Tian F, Chen W, Zhai Q*",
+    "journal": "Microbiome",
+    "year": 2026,
+    "category": "Microbiome & Disease",
+    "doi": "10.1186/s40168-026-02415-8"
+  },
+  {
+    "id": 28,
+    "title": "Precise probiotic therapy: Advances, bottlenecks, and the road to microbiome-informed nutrition",
+    "authors": "Jiang Y, Jiang S, Wang Z, Zhu P, Zhang J, Teng F, Huang S*",
+    "journal": "Gut Microbes",
+    "year": 2025,
+    "category": "Probiotics",
+    "doi": "10.1080/19490976.2025.2623359"
+  },
+  {
+    "id": 29,
+    "title": "Baseline gut microbiome-dependent responses to probiotic treatments for IBD in mice",
+    "authors": "Zhang Z, Yang Z, Jiang S, Sun Y, Jiang Y, Huang S*, Zhang J*",
+    "journal": "Engineering",
+    "year": 2026,
+    "category": "Probiotics",
+    "doi": ""
+  },
+  {
+    "id": 30,
+    "title": "Editorial: Perspectives in extra-intestinal microbiome 2025",
+    "authors": "Huang S*, Xu X*",
+    "journal": "Frontiers in Cellular and Infection Microbiology",
+    "year": 2026,
+    "category": "Microbiome & Disease",
+    "doi": "10.3389/fcimb.2026.1824939"
+  }
+]

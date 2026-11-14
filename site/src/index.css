@@ -1,0 +1,98 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 220 40% 4%;
+    --foreground: 210 40% 96%;
+    --card: 220 35% 6%;
+    --card-foreground: 210 40% 96%;
+    --popover: 220 35% 6%;
+    --popover-foreground: 210 40% 96%;
+    --primary: 164 70% 50%;
+    --primary-foreground: 220 40% 4%;
+    --secondary: 220 30% 10%;
+    --secondary-foreground: 210 40% 96%;
+    --muted: 220 20% 15%;
+    --muted-foreground: 215 20% 55%;
+    --accent: 164 70% 50%;
+    --accent-foreground: 220 40% 4%;
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 164 70% 50% / 0.12;
+    --input: 220 20% 15%;
+    --ring: 164 70% 50%;
+    --radius: 0.625rem;
+
+    /* Lab custom tokens */
+    --color-bg-primary: #060B14;
+    --color-bg-secondary: #0A1525;
+    --color-bg-tertiary: #0E1D33;
+    --color-bg-glass: rgba(10, 21, 37, 0.72);
+    --color-border: rgba(56, 189, 166, 0.12);
+    --color-border-hover: rgba(56, 189, 166, 0.30);
+    --color-accent-teal: #2DD4A8;
+    --color-accent-teal-dim: rgba(45, 212, 168, 0.15);
+    --color-accent-green: #4ADE80;
+    --color-accent-cyan: #22D3EE;
+    --color-accent-gold: #FBBF24;
+    --color-accent-rose: #FB7185;
+    --color-text-primary: #F0F4F8;
+    --color-text-secondary: #94A3B8;
+    --color-text-muted: #5E6E82;
+    --color-text-accent: #2DD4A8;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  body {
+    background-color: var(--color-bg-primary);
+    color: var(--color-text-primary);
+    font-family: 'Inter', system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@layer utilities {
+  .gradient-text-teal {
+    background: linear-gradient(135deg, #2DD4A8 0%, #22D3EE 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .gradient-hero {
+    background: radial-gradient(ellipse at 30% 20%, rgba(45, 212, 168, 0.08) 0%, transparent 60%);
+  }
+
+  .gradient-teal-glow {
+    background: linear-gradient(135deg, rgba(45, 212, 168, 0.15) 0%, rgba(34, 211, 238, 0.05) 100%);
+  }
+
+  .glass-card {
+    background: rgba(10, 21, 37, 0.72);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(56, 189, 166, 0.12);
+    border-radius: 16px;
+  }
+
+  .glass-card-hover:hover {
+    border-color: rgba(56, 189, 166, 0.30);
+    box-shadow: 0 8px 40px rgba(45, 212, 168, 0.06);
+    transform: translateY(-4px);
+  }
+
+  .section-padding {
+    padding-top: clamp(4rem, 8vh, 8rem);
+    padding-bottom: clamp(4rem, 8vh, 8rem);
+  }
+}
