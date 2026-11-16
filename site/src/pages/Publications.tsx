@@ -3,8 +3,7 @@ import { useState, useEffect, useMemo, useCallback } from 'react'
 import { Link } from 'react-router'
 import { motion, AnimatePresence } from 'framer-motion'
 import { Search, ArrowRight, BookOpen } from 'lucide-react'
-import { publications as pubsData } from '@/data'
-import statsJson from '@/data/stats.json'
+import { publications as pubsData, statsJson } from '@/data'
 
 /* ------------------------------------------------------------------ */
 /*  DATA                                                               */
