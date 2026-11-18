@@ -1,50 +1,58 @@
 [
-  {
-    "title": "Single-tooth resolved, whole-mouth prediction of early childhood caries via spatiotemporal variations of plaque microbiota",
-    "authors": "Yang Fang#, Teng Fei#*, Zhang Yufeng#, Sun Yanfei, Xu Jian*, Huang Shi*",
-    "journal": "Cell Host and Microbe",
-    "year": 2025,
-    "category": "Microbiome & Disease",
-    "doi": "10.1016/j.chom.2025.05.006"
-  },
-  {
-    "title": "Precise probiotic therapy: Advances, bottlenecks, and the road to microbiome-informed nutrition",
-    "authors": "Jiang Y, Jiang S, Wang Z, Zhu P, Zhang J, Teng F, Huang S*",
-    "journal": "Gut Microbes",
-    "year": 2025,
-    "category": "Probiotics",
-    "doi": "10.1080/19490976.2026.2623359"
-  },
-  {
-    "title": "Baseline gut microbiome-dependent responses to probiotic treatments for IBD in mice",
-    "authors": "Zhang Z, Yang Z, Jiang S, Sun Y, Jiang Y, Huang S*, Zhang J*",
-    "journal": "Engineering",
-    "year": 2026,
-    "category": "Probiotics",
-    "doi": ""
-  },
-  {
-    "title": "Editorial: Perspectives in extra-intestinal microbiome 2025",
-    "authors": "Huang S*, Xu X*",
-    "journal": "Frontiers in Cellular and Infection Microbiology",
-    "year": 2026,
-    "category": "Microbiome & Disease",
-    "doi": "10.3389/fcimb.2026.1824939"
-  },
-  {
-    "title": "Capsaicin ameliorates glycemic levels via gut microbiota-derived 5-aminolevulinic acid in mice",
-    "authors": "Fang Q, Huang S*, Zhang C, Li M, Ye Z, Guo H, Xiao M, Wang S, Yu L, Zhang H, Zhao J, Tian F, Chen W, Zhai Q*",
-    "journal": "Microbiome",
-    "year": 2026,
-    "category": "Microbiome & Disease",
-    "doi": "10.1186/s40168-026-02415-8"
-  },
-  {
-    "title": "A high-resolution spatial model of the primate gut microbiome defines niche-specific functions and host-adapted microbial metabolism",
-    "authors": "Hou S, Jiang Y, Zhang D, Xu Z, Li Y, Liu X, Zhang H, Zhang J, Zhai Q, Zhang C, Wang X, Huang S*",
-    "journal": "Gut Microbes",
-    "year": 2026,
-    "category": "Microbiome & Disease",
-    "doi": "10.1080/19490976.2026.2748153"
-  }
+ {
+  "title": "Single-tooth resolved, whole-mouth prediction of early childhood caries via spatiotemporal variations of plaque microbiota",
+  "authors": "Yang Fang#, Teng Fei#*, Zhang Yufeng#, Sun Yanfei, Xu Jian*, Huang Shi*",
+  "journal": "Cell Host and Microbe",
+  "year": 2025,
+  "category": "Microbiome & Disease",
+  "doi": "10.1016/j.chom.2025.05.006"
+ },
+ {
+  "title": "Precise probiotic therapy: Advances, bottlenecks, and the road to microbiome-informed nutrition",
+  "authors": "Jiang Y, Jiang S, Wang Z, Zhu P, Zhang J, Teng F, Huang S*",
+  "journal": "Gut Microbes",
+  "year": 2025,
+  "category": "Probiotics",
+  "doi": "10.1080/19490976.2026.2623359"
+ },
+ {
+  "title": "Baseline gut microbiome-dependent responses to probiotic treatments for IBD in mice",
+  "authors": "Zhang Z, Yang Z, Jiang S, Sun Y, Jiang Y, Huang S*, Zhang J*",
+  "journal": "Engineering",
+  "year": 2026,
+  "category": "Probiotics",
+  "doi": ""
+ },
+ {
+  "title": "Editorial: Perspectives in extra-intestinal microbiome 2025",
+  "authors": "Huang S*, Xu X*",
+  "journal": "Frontiers in Cellular and Infection Microbiology",
+  "year": 2026,
+  "category": "Microbiome & Disease",
+  "doi": "10.3389/fcimb.2026.1824939"
+ },
+ {
+  "title": "Capsaicin ameliorates glycemic levels via gut microbiota-derived 5-aminolevulinic acid in mice",
+  "authors": "Fang Q, Huang S*, Zhang C, Li M, Ye Z, Guo H, Xiao M, Wang S, Yu L, Zhang H, Zhao J, Tian F, Chen W, Zhai Q*",
+  "journal": "Microbiome",
+  "year": 2026,
+  "category": "Microbiome & Disease",
+  "doi": "10.1186/s40168-026-02415-8"
+ },
+ {
+  "title": "A high-resolution spatial model of the primate gut microbiome defines niche-specific functions and host-adapted microbial metabolism",
+  "authors": "Hou S, Jiang Y, Zhang D, Xu Z, Li Y, Liu X, Zhang H, Zhang J, Zhai Q, Zhang C, Wang X, Huang S*",
+  "journal": "Gut Microbes",
+  "year": 2026,
+  "category": "Microbiome & Disease",
+  "doi": "10.1080/19490976.2026.2748153"
+ },
+ {
+  "title": "Emerging paradigms in exploring the interactions among diet, probiotics, and cancer immunotherapeutic response",
+  "authors": "Huang S*, He C, Li J, Gao YZ, Wang Z, Wei Y",
+  "journal": "The Innovation",
+  "year": 2023,
+  "category": "Probiotics",
+  "doi": "10.1016/j.xinn.2023.100456"
+ }
 ]
